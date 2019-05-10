@@ -1,0 +1,1314 @@
+2016-05-05 17:42:10,630 INFO     Session 1462444923 [1 - tcp4:127.0.0.1:50850] Connection
+2016-05-05 17:42:10,631 INFO     Session 1462444923 [1 - tcp4:127.0.0.1:50850] Open
+2016-05-05 17:42:10,664 INFO     Session 1462444923 [1 - tcp4:127.0.0.1:50850] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":60740298000000,"name":"Faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 17:42:10,664 INFO     Session 1462444923 [1 - tcp4:127.0.0.1:50850] Unable to give verification and is kicked.
+2016-05-05 17:42:10,667 INFO     Session 1462444923 [1 - tcp4:127.0.0.1:50850] Close - 1000:Unable to give identification!
+2016-05-05 17:43:05,346 INFO     Session 1462444923 [2 - tcp4:127.0.0.1:50879] Connection
+2016-05-05 17:43:05,347 INFO     Session 1462444923 [2 - tcp4:127.0.0.1:50879] Open
+2016-05-05 17:43:05,367 INFO     Session 1462444923 [2 - tcp4:127.0.0.1:50879] Received sensitive information.
+2016-05-05 17:43:05,806 INFO     Session 1462444923 [2 - tcp4:127.0.0.1:50879] Login as faisal
+2016-05-05 17:43:05,807 INFO     Session 1462444923 [2 - tcp4:127.0.0.1:50879] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":60740298000000,"name":"Faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 17:43:05,933 INFO     Session 1462444923 [2 - tcp4:127.0.0.1:50879] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 17:43:34,415 INFO     Session 1462445011 [1 - tcp4:127.0.0.1:50896] Connection
+2016-05-05 17:43:34,416 INFO     Session 1462445011 [1 - tcp4:127.0.0.1:50896] Open
+2016-05-05 17:43:34,435 INFO     Session 1462445011 [1 - tcp4:127.0.0.1:50896] Received sensitive information.
+2016-05-05 17:43:34,872 INFO     Session 1462445011 [1 - tcp4:127.0.0.1:50896] Login as faisal
+2016-05-05 17:43:34,873 INFO     Session 1462445011 [1 - tcp4:127.0.0.1:50896] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":60740298000000,"name":"Faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 17:43:34,941 INFO     Session 1462445011 [1 - tcp4:127.0.0.1:50896] Close - 1000:Incorrect login data!
+2016-05-05 17:45:31,568 INFO     Session 1462445129 [1 - tcp4:127.0.0.1:50951] Connection
+2016-05-05 17:45:31,569 INFO     Session 1462445129 [1 - tcp4:127.0.0.1:50951] Open
+2016-05-05 17:45:31,588 INFO     Session 1462445129 [1 - tcp4:127.0.0.1:50951] Received sensitive information.
+2016-05-05 17:45:32,356 INFO     Session 1462445129 [1 - tcp4:127.0.0.1:50951] Login as faisal
+2016-05-05 17:45:32,356 INFO     Session 1462445129 [1 - tcp4:127.0.0.1:50951] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":60740298000000,"name":"Faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 17:45:32,440 INFO     Session 1462445129 [1 - tcp4:127.0.0.1:50951] Close - 1000:Incorrect login data!
+2016-05-05 17:45:53,461 INFO     Session 1462445151 [1 - tcp4:127.0.0.1:50968] Connection
+2016-05-05 17:45:53,461 INFO     Session 1462445151 [1 - tcp4:127.0.0.1:50968] Open
+2016-05-05 17:45:53,482 INFO     Session 1462445151 [1 - tcp4:127.0.0.1:50968] Received sensitive information.
+2016-05-05 17:45:53,914 INFO     Session 1462445151 [1 - tcp4:127.0.0.1:50968] Login as faisal
+2016-05-05 17:45:53,915 INFO     Session 1462445151 [1 - tcp4:127.0.0.1:50968] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":60740298000000,"name":"Faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 17:45:53,988 INFO     Session 1462445151 [1 - tcp4:127.0.0.1:50968] Close - 1000:Incorrect login data!
+2016-05-05 17:46:27,783 INFO     Session 1462445151 [2 - tcp4:127.0.0.1:50988] Connection
+2016-05-05 17:46:27,784 INFO     Session 1462445151 [2 - tcp4:127.0.0.1:50988] Open
+2016-05-05 17:46:27,803 INFO     Session 1462445151 [2 - tcp4:127.0.0.1:50988] Received sensitive information.
+2016-05-05 17:46:28,246 INFO     Session 1462445151 [2 - tcp4:127.0.0.1:50988] Login as faisal
+2016-05-05 17:46:28,249 INFO     Session 1462445151 [2 - tcp4:127.0.0.1:50988] Close - 1000:Incorrect login data!
+2016-05-05 17:51:14,333 INFO     Session 1462445472 [1 - tcp4:127.0.0.1:51167] Connection
+2016-05-05 17:51:14,333 INFO     Session 1462445472 [1 - tcp4:127.0.0.1:51167] Open
+2016-05-05 17:51:14,353 INFO     Session 1462445472 [1 - tcp4:127.0.0.1:51167] Received sensitive information.
+2016-05-05 17:51:14,791 INFO     Session 1462445472 [1 - tcp4:127.0.0.1:51167] Login as faisal
+2016-05-05 17:51:14,791 INFO     Session 1462445472 [1 - tcp4:127.0.0.1:51167] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":60740298000000,"name":"Faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 17:51:31,761 INFO     Session 1462445472 [1 - tcp4:127.0.0.1:51167] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 17:51:52,844 INFO     Session 1462445501 [1 - tcp4:127.0.0.1:51188] Connection
+2016-05-05 17:51:52,845 INFO     Session 1462445501 [1 - tcp4:127.0.0.1:51188] Open
+2016-05-05 17:51:52,865 INFO     Session 1462445501 [1 - tcp4:127.0.0.1:51188] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":60740298000000,"name":"Faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 17:51:52,865 INFO     Session 1462445501 [1 - tcp4:127.0.0.1:51188] Unable to give verification and is kicked.
+2016-05-05 17:51:52,868 INFO     Session 1462445501 [1 - tcp4:127.0.0.1:51188] Close - 1000:Unable to give identification!
+2016-05-05 18:09:41,226 INFO     Session 1462446557 [1 - tcp4:127.0.0.1:51623] Connection
+2016-05-05 18:09:41,226 INFO     Session 1462446557 [1 - tcp4:127.0.0.1:51623] Open
+2016-05-05 18:09:41,246 INFO     Session 1462446557 [1 - tcp4:127.0.0.1:51623] Received sensitive information.
+2016-05-05 18:09:41,698 INFO     Session 1462446557 [1 - tcp4:127.0.0.1:51623] Login as faisal
+2016-05-05 18:09:41,699 INFO     Session 1462446557 [1 - tcp4:127.0.0.1:51623] Close - 1008:IllegalArgumentException
+2016-05-05 18:10:27,550 INFO     Session 1462446557 [2 - tcp4:127.0.0.1:51634] Connection
+2016-05-05 18:10:27,551 INFO     Session 1462446557 [2 - tcp4:127.0.0.1:51634] Open
+2016-05-05 18:10:27,570 INFO     Session 1462446557 [2 - tcp4:127.0.0.1:51634] Received sensitive information.
+2016-05-05 18:10:28,016 INFO     Session 1462446557 [2 - tcp4:127.0.0.1:51634] Login as faisal
+2016-05-05 18:10:28,016 INFO     Session 1462446557 [2 - tcp4:127.0.0.1:51634] Close - 1008:IllegalArgumentException
+2016-05-05 18:10:42,056 INFO     Session 1462446557 [3 - tcp4:127.0.0.1:51639] Connection
+2016-05-05 18:10:42,072 INFO     Session 1462446557 [3 - tcp4:127.0.0.1:51639] Open
+2016-05-05 18:10:42,093 INFO     Session 1462446557 [3 - tcp4:127.0.0.1:51639] Received sensitive information.
+2016-05-05 18:10:42,496 INFO     Session 1462446557 [3 - tcp4:127.0.0.1:51639] Login as faisal
+2016-05-05 18:10:42,496 INFO     Session 1462446557 [3 - tcp4:127.0.0.1:51639] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":"1995-10-14 18:10:42","name":"Faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 18:11:55,865 INFO     Session 1462446557 [3 - tcp4:127.0.0.1:51639] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 18:11:58,541 INFO     Session 1462446557 [4 - tcp4:127.0.0.1:51646] Connection
+2016-05-05 18:11:58,542 INFO     Session 1462446557 [4 - tcp4:127.0.0.1:51646] Open
+2016-05-05 18:11:58,562 INFO     Session 1462446557 [4 - tcp4:127.0.0.1:51646] Received sensitive information.
+2016-05-05 18:11:58,972 INFO     Session 1462446557 [4 - tcp4:127.0.0.1:51646] Login as faisal
+2016-05-05 18:11:58,972 INFO     Session 1462446557 [4 - tcp4:127.0.0.1:51646] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":"1994-10-14 18:11:58","name":"Faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 18:16:58,580 INFO     Session 1462446557 [4 - tcp4:127.0.0.1:51646] Close - 1001:Idle Timeout
+2016-05-05 18:52:32,764 INFO     Session 1462449145 [1 - tcp4:127.0.0.1:51813] Connection
+2016-05-05 18:52:32,764 INFO     Session 1462449145 [1 - tcp4:127.0.0.1:51813] Open
+2016-05-05 18:52:32,784 INFO     Session 1462449145 [1 - tcp4:127.0.0.1:51813] Received sensitive information.
+2016-05-05 18:52:33,199 INFO     Session 1462449145 [1 - tcp4:127.0.0.1:51813] Login as faisal
+2016-05-05 18:52:33,200 INFO     Session 1462449145 [1 - tcp4:127.0.0.1:51813] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":"1994-09-14 18:52:32","name":null,"married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 18:52:33,206 INFO     Session 1462449145 [1 - tcp4:127.0.0.1:51813] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 18:53:03,120 INFO     Session 1462449180 [1 - tcp4:127.0.0.1:51824] Connection
+2016-05-05 18:53:03,120 INFO     Session 1462449180 [1 - tcp4:127.0.0.1:51824] Open
+2016-05-05 18:53:03,140 INFO     Session 1462449180 [1 - tcp4:127.0.0.1:51824] Received sensitive information.
+2016-05-05 18:53:03,559 INFO     Session 1462449180 [1 - tcp4:127.0.0.1:51824] Login as faisal
+2016-05-05 18:53:03,560 INFO     Session 1462449180 [1 - tcp4:127.0.0.1:51824] Message - b'{"pob":null,"occupation":"Programmer","address":"Jakarta","gender":false,"dob":"1994-09-14 18:53:03","name":"Faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 18:53:09,158 INFO     Session 1462449180 [1 - tcp4:127.0.0.1:51824] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 18:55:49,266 INFO     Session 1462449180 [2 - tcp4:127.0.0.1:51844] Connection
+2016-05-05 18:55:49,266 INFO     Session 1462449180 [2 - tcp4:127.0.0.1:51844] Open
+2016-05-05 18:55:49,286 INFO     Session 1462449180 [2 - tcp4:127.0.0.1:51844] Received sensitive information.
+2016-05-05 18:55:49,707 INFO     Session 1462449180 [2 - tcp4:127.0.0.1:51844] Login as faisal
+2016-05-05 18:55:49,708 INFO     Session 1462449180 [2 - tcp4:127.0.0.1:51844] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":"1994-09-14 18:55:49","name":null,"married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 18:55:49,713 INFO     Session 1462449180 [2 - tcp4:127.0.0.1:51844] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 20:32:26,688 INFO     Session 1462455140 [1 - tcp4:127.0.0.1:54464] Connection
+2016-05-05 20:32:26,700 INFO     Session 1462455140 [1 - tcp4:127.0.0.1:54464] Open
+2016-05-05 20:32:26,723 INFO     Session 1462455140 [1 - tcp4:127.0.0.1:54464] Received sensitive information.
+2016-05-05 20:32:27,168 INFO     Session 1462455140 [1 - tcp4:127.0.0.1:54464] Login as faisal
+2016-05-05 20:32:27,169 INFO     Session 1462455140 [1 - tcp4:127.0.0.1:54464] Message - b'{"name":"faisal","command":"get_client"}'
+2016-05-05 20:32:27,294 INFO     Session 1462455140 [1 - tcp4:127.0.0.1:54464] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 20:33:14,072 INFO     Session 1462455184 [1 - tcp4:127.0.0.1:54492] Connection
+2016-05-05 20:33:14,073 INFO     Session 1462455184 [1 - tcp4:127.0.0.1:54492] Open
+2016-05-05 20:33:14,096 INFO     Session 1462455184 [1 - tcp4:127.0.0.1:54492] Received sensitive information.
+2016-05-05 20:33:14,533 INFO     Session 1462455184 [1 - tcp4:127.0.0.1:54492] Login as faisal
+2016-05-05 20:33:14,533 INFO     Session 1462455184 [1 - tcp4:127.0.0.1:54492] Message - b'{"name":"faisal","command":"get_client"}'
+2016-05-05 20:33:14,534 INFO     Session 1462455184 [1 - tcp4:127.0.0.1:54492] Requesting client...
+2016-05-05 20:33:14,538 INFO     Session 1462455184 [1 - tcp4:127.0.0.1:54492] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 20:33:38,238 INFO     Session 1462455208 [1 - tcp4:127.0.0.1:54510] Connection
+2016-05-05 20:33:38,238 INFO     Session 1462455208 [1 - tcp4:127.0.0.1:54510] Open
+2016-05-05 20:33:38,259 INFO     Session 1462455208 [1 - tcp4:127.0.0.1:54510] Received sensitive information.
+2016-05-05 20:33:39,037 INFO     Session 1462455208 [1 - tcp4:127.0.0.1:54510] Login as faisal
+2016-05-05 20:33:39,038 INFO     Session 1462455208 [1 - tcp4:127.0.0.1:54510] Message - b'{"name":"faisal","command":"get_client"}'
+2016-05-05 20:33:39,038 INFO     Session 1462455208 [1 - tcp4:127.0.0.1:54510] Requesting client...
+2016-05-05 20:33:39,046 INFO     Session 1462455208 [1 - tcp4:127.0.0.1:54510] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 20:34:08,213 INFO     Session 1462455240 [1 - tcp4:127.0.0.1:54528] Connection
+2016-05-05 20:34:08,213 INFO     Session 1462455240 [1 - tcp4:127.0.0.1:54528] Open
+2016-05-05 20:34:08,234 INFO     Session 1462455240 [1 - tcp4:127.0.0.1:54528] Received sensitive information.
+2016-05-05 20:34:08,683 INFO     Session 1462455240 [1 - tcp4:127.0.0.1:54528] Login as faisal
+2016-05-05 20:34:08,684 INFO     Session 1462455240 [1 - tcp4:127.0.0.1:54528] Message - b'{"name":"faisal","command":"get_client"}'
+2016-05-05 20:34:08,684 INFO     Session 1462455240 [1 - tcp4:127.0.0.1:54528] Requesting client...
+2016-05-05 20:34:08,693 INFO     Session 1462455240 [1 - tcp4:127.0.0.1:54528] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 20:35:02,223 INFO     Session 1462455296 [1 - tcp4:127.0.0.1:54557] Connection
+2016-05-05 20:35:02,224 INFO     Session 1462455296 [1 - tcp4:127.0.0.1:54557] Open
+2016-05-05 20:35:02,247 INFO     Session 1462455296 [1 - tcp4:127.0.0.1:54557] Received sensitive information.
+2016-05-05 20:35:02,694 INFO     Session 1462455296 [1 - tcp4:127.0.0.1:54557] Login as faisal
+2016-05-05 20:35:02,694 INFO     Session 1462455296 [1 - tcp4:127.0.0.1:54557] Message - b'{"name":"faisal","command":"get_client"}'
+2016-05-05 20:35:02,694 INFO     Session 1462455296 [1 - tcp4:127.0.0.1:54557] Requesting client...
+2016-05-05 20:35:07,256 INFO     Session 1462455296 [1 - tcp4:127.0.0.1:54557] Close - 1001:Idle Timeout
+2016-05-05 20:35:43,537 INFO     Session 1462455312 [1 - tcp4:127.0.0.1:54585] Connection
+2016-05-05 20:35:43,538 INFO     Session 1462455312 [1 - tcp4:127.0.0.1:54585] Open
+2016-05-05 20:35:43,562 INFO     Session 1462455312 [1 - tcp4:127.0.0.1:54585] Received sensitive information.
+2016-05-05 20:35:44,005 INFO     Session 1462455312 [1 - tcp4:127.0.0.1:54585] Login as faisal
+2016-05-05 20:35:44,006 INFO     Session 1462455312 [1 - tcp4:127.0.0.1:54585] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":"1994-09-14 20:35:43","name":"faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 20:35:44,006 INFO     Session 1462455312 [1 - tcp4:127.0.0.1:54585] Inserting client...
+2016-05-05 20:35:44,063 INFO     Session 1462455312 [1 - tcp4:127.0.0.1:54585] Insert successful!
+2016-05-05 20:35:44,064 INFO     Session 1462455312 [1 - tcp4:127.0.0.1:54585] Message - b'{"name":"faisal","command":"get_client"}'
+2016-05-05 20:35:44,064 INFO     Session 1462455312 [1 - tcp4:127.0.0.1:54585] Requesting client...
+2016-05-05 20:35:48,565 INFO     Session 1462455312 [1 - tcp4:127.0.0.1:54585] Close - 1001:Idle Timeout
+2016-05-05 20:36:03,991 INFO     Session 1462455312 [2 - tcp4:127.0.0.1:54598] Connection
+2016-05-05 20:36:03,992 INFO     Session 1462455312 [2 - tcp4:127.0.0.1:54598] Open
+2016-05-05 20:36:04,015 INFO     Session 1462455312 [2 - tcp4:127.0.0.1:54598] Received sensitive information.
+2016-05-05 20:36:04,448 INFO     Session 1462455312 [2 - tcp4:127.0.0.1:54598] Login as faisal
+2016-05-05 20:36:04,448 INFO     Session 1462455312 [2 - tcp4:127.0.0.1:54598] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":"1994-09-14 20:36:04","name":"faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 20:36:04,448 INFO     Session 1462455312 [2 - tcp4:127.0.0.1:54598] Inserting client...
+2016-05-05 20:36:04,530 INFO     Session 1462455312 [2 - tcp4:127.0.0.1:54598] Insert successful!
+2016-05-05 20:36:04,530 INFO     Session 1462455312 [2 - tcp4:127.0.0.1:54598] Message - b'{"name":"Faisal","command":"get_client"}'
+2016-05-05 20:36:04,530 INFO     Session 1462455312 [2 - tcp4:127.0.0.1:54598] Requesting client...
+2016-05-05 20:36:09,021 INFO     Session 1462455312 [2 - tcp4:127.0.0.1:54598] Close - 1001:Idle Timeout
+2016-05-05 20:36:15,779 INFO     Session 1462455312 [3 - tcp4:127.0.0.1:54609] Connection
+2016-05-05 20:36:15,779 INFO     Session 1462455312 [3 - tcp4:127.0.0.1:54609] Open
+2016-05-05 20:36:15,799 INFO     Session 1462455312 [3 - tcp4:127.0.0.1:54609] Received sensitive information.
+2016-05-05 20:36:16,233 INFO     Session 1462455312 [3 - tcp4:127.0.0.1:54609] Login as faisal
+2016-05-05 20:36:16,233 INFO     Session 1462455312 [3 - tcp4:127.0.0.1:54609] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":"1994-09-14 20:36:15","name":"faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 20:36:16,233 INFO     Session 1462455312 [3 - tcp4:127.0.0.1:54609] Inserting client...
+2016-05-05 20:36:16,334 INFO     Session 1462455312 [3 - tcp4:127.0.0.1:54609] Insert successful!
+2016-05-05 20:36:16,334 INFO     Session 1462455312 [3 - tcp4:127.0.0.1:54609] Message - b'{"name":"Fai","command":"get_client"}'
+2016-05-05 20:36:16,334 INFO     Session 1462455312 [3 - tcp4:127.0.0.1:54609] Requesting client...
+2016-05-05 20:36:20,807 INFO     Session 1462455312 [3 - tcp4:127.0.0.1:54609] Close - 1001:Idle Timeout
+2016-05-05 20:37:34,310 INFO     Session 1462455431 [1 - tcp4:127.0.0.1:54650] Connection
+2016-05-05 20:37:34,311 INFO     Session 1462455431 [1 - tcp4:127.0.0.1:54650] Open
+2016-05-05 20:37:34,332 INFO     Session 1462455431 [1 - tcp4:127.0.0.1:54650] Received sensitive information.
+2016-05-05 20:37:34,769 INFO     Session 1462455431 [1 - tcp4:127.0.0.1:54650] Login as faisal
+2016-05-05 20:37:34,769 INFO     Session 1462455431 [1 - tcp4:127.0.0.1:54650] Message - b'{"name":"faisal","command":"get_client"}'
+2016-05-05 20:37:34,769 INFO     Session 1462455431 [1 - tcp4:127.0.0.1:54650] Requesting client...
+2016-05-05 20:37:46,536 INFO     Session 1462455431 [1 - tcp4:127.0.0.1:54650] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 20:40:00,596 INFO     Session 1462455594 [1 - tcp4:127.0.0.1:54739] Connection
+2016-05-05 20:40:00,597 INFO     Session 1462455594 [1 - tcp4:127.0.0.1:54739] Open
+2016-05-05 20:40:00,617 INFO     Session 1462455594 [1 - tcp4:127.0.0.1:54739] Received sensitive information.
+2016-05-05 20:40:01,339 INFO     Session 1462455594 [1 - tcp4:127.0.0.1:54739] Login as faisal
+2016-05-05 20:40:01,339 INFO     Session 1462455594 [1 - tcp4:127.0.0.1:54739] Message - b'{"name":"faisal","command":"get_client"}'
+2016-05-05 20:40:01,339 INFO     Session 1462455594 [1 - tcp4:127.0.0.1:54739] Requesting client...
+2016-05-05 20:40:01,346 INFO     Session 1462455594 [1 - tcp4:127.0.0.1:54739] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 20:41:00,489 INFO     Session 1462455653 [1 - tcp4:127.0.0.1:54777] Connection
+2016-05-05 20:41:00,490 INFO     Session 1462455653 [1 - tcp4:127.0.0.1:54777] Open
+2016-05-05 20:41:00,512 INFO     Session 1462455653 [1 - tcp4:127.0.0.1:54777] Received sensitive information.
+2016-05-05 20:41:01,281 INFO     Session 1462455653 [1 - tcp4:127.0.0.1:54777] Login as faisal
+2016-05-05 20:41:01,281 INFO     Session 1462455653 [1 - tcp4:127.0.0.1:54777] Message - b'{"name":"faisal","command":"get_client"}'
+2016-05-05 20:41:01,281 INFO     Session 1462455653 [1 - tcp4:127.0.0.1:54777] Requesting client...
+2016-05-05 20:46:01,286 INFO     Session 1462455653 [1 - tcp4:127.0.0.1:54777] Close - 1001:Shutdown
+2016-05-05 21:48:24,708 INFO     Session 1462458850 [1 - tcp4:127.0.0.1:56761] Connection
+2016-05-05 21:48:24,760 INFO     Session 1462458850 [1 - tcp4:127.0.0.1:56761] Open
+2016-05-05 21:48:24,784 INFO     Session 1462458850 [1 - tcp4:127.0.0.1:56761] Received sensitive information.
+2016-05-05 21:48:25,604 INFO     Session 1462458850 [1 - tcp4:127.0.0.1:56761] Login as faisal
+2016-05-05 21:48:25,604 INFO     Session 1462458850 [1 - tcp4:127.0.0.1:56761] Message - b'{"expires":"1994-09-14 21:48:24","value":100.0,"command":"get_client","client_id":0}'
+2016-05-05 21:48:25,604 INFO     Session 1462458850 [1 - tcp4:127.0.0.1:56761] Requesting client data.
+2016-05-05 21:48:25,761 INFO     Session 1462458850 [1 - tcp4:127.0.0.1:56761] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 21:49:20,140 INFO     Session 1462458850 [2 - tcp4:127.0.0.1:56815] Connection
+2016-05-05 21:49:20,141 INFO     Session 1462458850 [2 - tcp4:127.0.0.1:56815] Open
+2016-05-05 21:49:20,163 INFO     Session 1462458850 [2 - tcp4:127.0.0.1:56815] Received sensitive information.
+2016-05-05 21:49:20,633 INFO     Session 1462458850 [2 - tcp4:127.0.0.1:56815] Login as faisal
+2016-05-05 21:49:20,634 INFO     Session 1462458850 [2 - tcp4:127.0.0.1:56815] Message - b'{"expires":"1994-09-14 21:49:20","value":100.0,"command":"create_rent","client_id":0}'
+2016-05-05 21:49:20,634 INFO     Session 1462458850 [2 - tcp4:127.0.0.1:56815] Unidentified command - create_rent
+2016-05-05 21:50:05,010 INFO     Session 1462459797 [1 - tcp4:127.0.0.1:56839] Connection
+2016-05-05 21:50:05,011 INFO     Session 1462459797 [1 - tcp4:127.0.0.1:56839] Open
+2016-05-05 21:50:05,033 INFO     Session 1462459797 [1 - tcp4:127.0.0.1:56839] Received sensitive information.
+2016-05-05 21:50:05,473 INFO     Session 1462459797 [1 - tcp4:127.0.0.1:56839] Login as faisal
+2016-05-05 21:50:05,473 INFO     Session 1462459797 [1 - tcp4:127.0.0.1:56839] Message - b'{"expires":"1994-09-14 21:50:05","value":100.0,"command":"create_rent","client_id":0}'
+2016-05-05 21:50:05,474 INFO     Session 1462459797 [1 - tcp4:127.0.0.1:56839] Creating rent...
+2016-05-05 21:53:35,848 INFO     Session 1462460008 [1 - tcp4:127.0.0.1:56942] Connection
+2016-05-05 21:53:35,849 INFO     Session 1462460008 [1 - tcp4:127.0.0.1:56942] Open
+2016-05-05 21:53:35,868 INFO     Session 1462460008 [1 - tcp4:127.0.0.1:56942] Received sensitive information.
+2016-05-05 21:53:36,300 INFO     Session 1462460008 [1 - tcp4:127.0.0.1:56942] Login as faisal
+2016-05-05 21:53:36,300 INFO     Session 1462460008 [1 - tcp4:127.0.0.1:56942] Message - b'{"expires":"1994-09-14 21:53:35","value":100.0,"command":"create_rent","client_id":0}'
+2016-05-05 21:53:36,300 INFO     Session 1462460008 [1 - tcp4:127.0.0.1:56942] Creating rent...
+2016-05-05 21:53:48,748 INFO     Session 1462460008 [1 - tcp4:127.0.0.1:56942] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 21:55:34,371 INFO     Session 1462460127 [1 - tcp4:127.0.0.1:57009] Connection
+2016-05-05 21:55:34,372 INFO     Session 1462460127 [1 - tcp4:127.0.0.1:57009] Open
+2016-05-05 21:55:34,393 INFO     Session 1462460127 [1 - tcp4:127.0.0.1:57009] Received sensitive information.
+2016-05-05 21:55:34,822 INFO     Session 1462460127 [1 - tcp4:127.0.0.1:57009] Login as faisal
+2016-05-05 21:55:34,823 INFO     Session 1462460127 [1 - tcp4:127.0.0.1:57009] Message - b'{"expires":"1994-09-14 21:55:34","value":100.0,"command":"create_rent","client_id":10}'
+2016-05-05 21:55:34,823 INFO     Session 1462460127 [1 - tcp4:127.0.0.1:57009] Creating rent...
+2016-05-05 21:55:59,031 INFO     Session 1462460127 [1 - tcp4:127.0.0.1:57009] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 21:57:27,293 INFO     Session 1462460239 [1 - tcp4:127.0.0.1:57110] Connection
+2016-05-05 21:57:27,294 INFO     Session 1462460239 [1 - tcp4:127.0.0.1:57110] Open
+2016-05-05 21:57:27,315 INFO     Session 1462460239 [1 - tcp4:127.0.0.1:57110] Received sensitive information.
+2016-05-05 21:57:28,037 INFO     Session 1462460239 [1 - tcp4:127.0.0.1:57110] Login as faisal
+2016-05-05 21:57:28,038 INFO     Session 1462460239 [1 - tcp4:127.0.0.1:57110] Message - b'{"expires":"1994-09-14 21:57:27","value":100.0,"command":"create_rent","client_id":10}'
+2016-05-05 21:57:28,038 INFO     Session 1462460239 [1 - tcp4:127.0.0.1:57110] Creating rent...
+2016-05-05 21:57:28,043 INFO     Session 1462460239 [1 - tcp4:127.0.0.1:57110] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 22:06:58,190 INFO     Session 1462460802 [1 - tcp4:127.0.0.1:57384] Connection
+2016-05-05 22:06:58,191 INFO     Session 1462460802 [1 - tcp4:127.0.0.1:57384] Open
+2016-05-05 22:06:58,212 INFO     Session 1462460802 [1 - tcp4:127.0.0.1:57384] Received sensitive information.
+2016-05-05 22:06:58,993 INFO     Session 1462460802 [1 - tcp4:127.0.0.1:57384] Login as faisal
+2016-05-05 22:06:58,998 INFO     Session 1462460802 [1 - tcp4:127.0.0.1:57384] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 22:11:43,650 INFO     Session 1462461094 [1 - tcp4:127.0.0.1:57881] Connection
+2016-05-05 22:11:43,651 INFO     Session 1462461094 [1 - tcp4:127.0.0.1:57881] Open
+2016-05-05 22:11:43,671 INFO     Session 1462461094 [1 - tcp4:127.0.0.1:57881] Received sensitive information.
+2016-05-05 22:11:44,422 INFO     Session 1462461094 [1 - tcp4:127.0.0.1:57881] Login as faisal
+2016-05-05 22:11:44,423 INFO     Session 1462461094 [1 - tcp4:127.0.0.1:57881] Message - b'{"expires":"1994-09-14 22:11:43","value":100.0,"command":"create_rent","client_id":10}'
+2016-05-05 22:11:44,423 INFO     Session 1462461094 [1 - tcp4:127.0.0.1:57881] Creating rent...
+2016-05-05 22:11:44,423 INFO     Session 1462461094 [1 - tcp4:127.0.0.1:57881] Fail to create!
+2016-05-05 22:12:08,266 INFO     Session 1462461094 [1 - tcp4:127.0.0.1:57881] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 22:16:28,621 INFO     Session 1462461381 [1 - tcp4:127.0.0.1:58161] Connection
+2016-05-05 22:16:28,622 INFO     Session 1462461381 [1 - tcp4:127.0.0.1:58161] Open
+2016-05-05 22:16:28,641 INFO     Session 1462461381 [1 - tcp4:127.0.0.1:58161] Received sensitive information.
+2016-05-05 22:16:29,392 INFO     Session 1462461381 [1 - tcp4:127.0.0.1:58161] Login as faisal
+2016-05-05 22:16:29,392 INFO     Session 1462461381 [1 - tcp4:127.0.0.1:58161] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":"1994-09-14 22:16:28","name":"faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-05 22:16:29,392 INFO     Session 1462461381 [1 - tcp4:127.0.0.1:58161] Inserting client...
+2016-05-05 22:16:29,483 INFO     Session 1462461381 [1 - tcp4:127.0.0.1:58161] Insert successful!
+2016-05-05 22:16:29,484 INFO     Session 1462461381 [1 - tcp4:127.0.0.1:58161] Message - b'{"expires":"1994-09-14 22:16:28","value":120.0,"command":"create_rent","client_id":1}'
+2016-05-05 22:16:29,485 INFO     Session 1462461381 [1 - tcp4:127.0.0.1:58161] Creating rent...
+2016-05-05 22:16:29,594 INFO     Session 1462461381 [1 - tcp4:127.0.0.1:58161] Created rent!
+2016-05-05 22:16:35,688 INFO     Session 1462461381 [1 - tcp4:127.0.0.1:58161] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 22:17:12,560 INFO     Session 1462461381 [2 - tcp4:127.0.0.1:58185] Connection
+2016-05-05 22:17:12,561 INFO     Session 1462461381 [2 - tcp4:127.0.0.1:58185] Open
+2016-05-05 22:17:12,581 INFO     Session 1462461381 [2 - tcp4:127.0.0.1:58185] Received sensitive information.
+2016-05-05 22:17:13,017 INFO     Session 1462461381 [2 - tcp4:127.0.0.1:58185] Login as faisal
+2016-05-05 22:17:13,018 INFO     Session 1462461381 [2 - tcp4:127.0.0.1:58185] Message - b'{"name":"faisal","command":"get_client"}'
+2016-05-05 22:17:13,018 INFO     Session 1462461381 [2 - tcp4:127.0.0.1:58185] Requesting client data.
+2016-05-05 22:17:20,709 INFO     Session 1462461381 [2 - tcp4:127.0.0.1:58185] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-05 23:24:53,896 INFO     Session 1462465476 [1 - tcp4:127.0.0.1:60422] Connection
+2016-05-05 23:24:53,897 INFO     Session 1462465476 [1 - tcp4:127.0.0.1:60422] Open
+2016-05-05 23:24:53,919 INFO     Session 1462465476 [1 - tcp4:127.0.0.1:60422] Received sensitive information.
+2016-05-05 23:24:54,695 INFO     Session 1462465476 [1 - tcp4:127.0.0.1:60422] Login as faisal
+2016-05-05 23:24:54,696 INFO     Session 1462465476 [1 - tcp4:127.0.0.1:60422] Message - b'{"name":null,"command":"get_client"}'
+2016-05-05 23:24:54,696 INFO     Session 1462465476 [1 - tcp4:127.0.0.1:60422] Requesting client data.
+2016-05-05 23:26:57,992 INFO     Session 1462465476 [1 - tcp4:127.0.0.1:60422] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 01:29:46,339 INFO     Session 1462472976 [1 - tcp4:127.0.0.1:64518] Connection
+2016-05-06 01:29:46,340 INFO     Session 1462472976 [1 - tcp4:127.0.0.1:64518] Open
+2016-05-06 01:29:46,360 INFO     Session 1462472976 [1 - tcp4:127.0.0.1:64518] Received sensitive information.
+2016-05-06 01:29:47,154 INFO     Session 1462472976 [1 - tcp4:127.0.0.1:64518] Login as faisal
+2016-05-06 01:29:47,154 INFO     Session 1462472976 [1 - tcp4:127.0.0.1:64518] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 01:29:47,154 INFO     Session 1462472976 [1 - tcp4:127.0.0.1:64518] Requesting client data.
+2016-05-06 01:29:47,155 INFO     Session 1462472976 [1 - tcp4:127.0.0.1:64518] Message - b'{"note":null,"expires":"2020-09-14 01:29:46","value":120.0,"command":"create_rent","client_id":1}'
+2016-05-06 01:29:47,155 INFO     Session 1462472976 [1 - tcp4:127.0.0.1:64518] Creating rent...
+2016-05-06 01:30:40,204 INFO     Session 1462473026 [1 - tcp4:127.0.0.1:64552] Connection
+2016-05-06 01:30:40,206 INFO     Session 1462473026 [1 - tcp4:127.0.0.1:64552] Open
+2016-05-06 01:30:40,228 INFO     Session 1462473026 [1 - tcp4:127.0.0.1:64552] Received sensitive information.
+2016-05-06 01:30:40,979 INFO     Session 1462473026 [1 - tcp4:127.0.0.1:64552] Login as faisal
+2016-05-06 01:30:40,980 INFO     Session 1462473026 [1 - tcp4:127.0.0.1:64552] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 01:30:40,980 INFO     Session 1462473026 [1 - tcp4:127.0.0.1:64552] Requesting client data.
+2016-05-06 01:30:40,980 INFO     Session 1462473026 [1 - tcp4:127.0.0.1:64552] Message - b'{"note":null,"expires":"2020-09-14 01:30:40","value":120.0,"command":"create_rent","client_id":1}'
+2016-05-06 01:30:40,980 INFO     Session 1462473026 [1 - tcp4:127.0.0.1:64552] Creating rent...
+2016-05-06 01:30:41,066 INFO     Session 1462473026 [1 - tcp4:127.0.0.1:64552] Created rent!
+2016-05-06 01:30:41,067 INFO     Session 1462473026 [1 - tcp4:127.0.0.1:64552] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 01:30:41,067 INFO     Session 1462473026 [1 - tcp4:127.0.0.1:64552] Requesting rent...
+2016-05-06 01:30:41,080 INFO     Session 1462473026 [1 - tcp4:127.0.0.1:64552] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 01:31:26,253 INFO     Session 1462473077 [1 - tcp4:127.0.0.1:64578] Connection
+2016-05-06 01:31:26,254 INFO     Session 1462473077 [1 - tcp4:127.0.0.1:64578] Open
+2016-05-06 01:31:26,275 INFO     Session 1462473077 [1 - tcp4:127.0.0.1:64578] Received sensitive information.
+2016-05-06 01:31:26,703 INFO     Session 1462473077 [1 - tcp4:127.0.0.1:64578] Login as faisal
+2016-05-06 01:31:26,703 INFO     Session 1462473077 [1 - tcp4:127.0.0.1:64578] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 01:31:26,703 INFO     Session 1462473077 [1 - tcp4:127.0.0.1:64578] Requesting client data.
+2016-05-06 01:31:26,704 INFO     Session 1462473077 [1 - tcp4:127.0.0.1:64578] Message - b'{"note":null,"expires":"2020-09-14 01:31:26","value":120.0,"command":"create_rent","client_id":1}'
+2016-05-06 01:31:26,704 INFO     Session 1462473077 [1 - tcp4:127.0.0.1:64578] Creating rent...
+2016-05-06 01:31:26,789 INFO     Session 1462473077 [1 - tcp4:127.0.0.1:64578] Created rent!
+2016-05-06 01:31:26,790 INFO     Session 1462473077 [1 - tcp4:127.0.0.1:64578] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 01:31:26,790 INFO     Session 1462473077 [1 - tcp4:127.0.0.1:64578] Requesting rent...
+2016-05-06 01:31:26,802 INFO     Session 1462473077 [1 - tcp4:127.0.0.1:64578] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 01:33:14,398 INFO     Session 1462473188 [1 - tcp4:127.0.0.1:64637] Connection
+2016-05-06 01:33:14,398 INFO     Session 1462473188 [1 - tcp4:127.0.0.1:64637] Open
+2016-05-06 01:33:14,419 INFO     Session 1462473188 [1 - tcp4:127.0.0.1:64637] Received sensitive information.
+2016-05-06 01:33:14,843 INFO     Session 1462473188 [1 - tcp4:127.0.0.1:64637] Login as faisal
+2016-05-06 01:33:14,843 INFO     Session 1462473188 [1 - tcp4:127.0.0.1:64637] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 01:33:14,843 INFO     Session 1462473188 [1 - tcp4:127.0.0.1:64637] Requesting client data.
+2016-05-06 01:33:14,844 INFO     Session 1462473188 [1 - tcp4:127.0.0.1:64637] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 01:33:14,844 INFO     Session 1462473188 [1 - tcp4:127.0.0.1:64637] Requesting rent...
+2016-05-06 01:33:14,853 INFO     Session 1462473188 [1 - tcp4:127.0.0.1:64637] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 01:34:35,554 INFO     Session 1462473268 [1 - tcp4:127.0.0.1:64682] Connection
+2016-05-06 01:34:35,555 INFO     Session 1462473268 [1 - tcp4:127.0.0.1:64682] Open
+2016-05-06 01:34:35,575 INFO     Session 1462473268 [1 - tcp4:127.0.0.1:64682] Received sensitive information.
+2016-05-06 01:34:36,323 INFO     Session 1462473268 [1 - tcp4:127.0.0.1:64682] Login as faisal
+2016-05-06 01:34:36,323 INFO     Session 1462473268 [1 - tcp4:127.0.0.1:64682] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 01:34:36,323 INFO     Session 1462473268 [1 - tcp4:127.0.0.1:64682] Requesting client data.
+2016-05-06 01:34:36,324 INFO     Session 1462473268 [1 - tcp4:127.0.0.1:64682] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 01:34:36,324 INFO     Session 1462473268 [1 - tcp4:127.0.0.1:64682] Requesting rent...
+2016-05-06 01:34:36,333 INFO     Session 1462473268 [1 - tcp4:127.0.0.1:64682] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 01:35:14,658 INFO     Session 1462473308 [1 - tcp4:127.0.0.1:64703] Connection
+2016-05-06 01:35:14,659 INFO     Session 1462473308 [1 - tcp4:127.0.0.1:64703] Open
+2016-05-06 01:35:14,684 INFO     Session 1462473308 [1 - tcp4:127.0.0.1:64703] Received sensitive information.
+2016-05-06 01:35:15,117 INFO     Session 1462473308 [1 - tcp4:127.0.0.1:64703] Login as faisal
+2016-05-06 01:35:15,118 INFO     Session 1462473308 [1 - tcp4:127.0.0.1:64703] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 01:35:15,118 INFO     Session 1462473308 [1 - tcp4:127.0.0.1:64703] Requesting client data.
+2016-05-06 01:35:15,118 INFO     Session 1462473308 [1 - tcp4:127.0.0.1:64703] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 01:35:15,118 INFO     Session 1462473308 [1 - tcp4:127.0.0.1:64703] Requesting rent...
+2016-05-06 01:36:10,959 INFO     Session 1462473361 [1 - tcp4:127.0.0.1:64732] Connection
+2016-05-06 01:36:10,960 INFO     Session 1462473361 [1 - tcp4:127.0.0.1:64732] Open
+2016-05-06 01:36:10,981 INFO     Session 1462473361 [1 - tcp4:127.0.0.1:64732] Received sensitive information.
+2016-05-06 01:36:11,405 INFO     Session 1462473361 [1 - tcp4:127.0.0.1:64732] Login as faisal
+2016-05-06 01:36:11,406 INFO     Session 1462473361 [1 - tcp4:127.0.0.1:64732] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 01:36:11,406 INFO     Session 1462473361 [1 - tcp4:127.0.0.1:64732] Requesting client data.
+2016-05-06 01:36:11,407 INFO     Session 1462473361 [1 - tcp4:127.0.0.1:64732] Message - b'{"note":null,"expires":"1994-09-14 01:36:10","value":120.0,"command":"create_rent","client_id":1}'
+2016-05-06 01:36:11,407 INFO     Session 1462473361 [1 - tcp4:127.0.0.1:64732] Creating rent...
+2016-05-06 01:36:11,495 INFO     Session 1462473361 [1 - tcp4:127.0.0.1:64732] Created rent!
+2016-05-06 01:36:11,496 INFO     Session 1462473361 [1 - tcp4:127.0.0.1:64732] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 01:36:11,497 INFO     Session 1462473361 [1 - tcp4:127.0.0.1:64732] Requesting rent...
+2016-05-06 01:36:27,956 INFO     Session 1462473361 [1 - tcp4:127.0.0.1:64732] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 01:36:39,773 INFO     Session 1462473361 [2 - tcp4:127.0.0.1:64751] Connection
+2016-05-06 01:36:39,773 INFO     Session 1462473361 [2 - tcp4:127.0.0.1:64751] Open
+2016-05-06 01:36:39,794 INFO     Session 1462473361 [2 - tcp4:127.0.0.1:64751] Received sensitive information.
+2016-05-06 01:36:40,221 INFO     Session 1462473361 [2 - tcp4:127.0.0.1:64751] Login as faisal
+2016-05-06 01:36:40,221 INFO     Session 1462473361 [2 - tcp4:127.0.0.1:64751] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 01:36:40,221 INFO     Session 1462473361 [2 - tcp4:127.0.0.1:64751] Requesting client data.
+2016-05-06 01:36:40,222 INFO     Session 1462473361 [2 - tcp4:127.0.0.1:64751] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 01:36:40,222 INFO     Session 1462473361 [2 - tcp4:127.0.0.1:64751] Requesting rent...
+2016-05-06 01:36:55,061 INFO     Session 1462473361 [2 - tcp4:127.0.0.1:64751] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 16:55:00,264 INFO     Session 1462528486 [1 - tcp4:127.0.0.1:58161] Connection
+2016-05-06 16:55:00,283 INFO     Session 1462528486 [1 - tcp4:127.0.0.1:58161] Open
+2016-05-06 16:55:00,358 INFO     Session 1462528486 [1 - tcp4:127.0.0.1:58161] Received sensitive information.
+2016-05-06 16:55:00,790 INFO     Session 1462528486 [1 - tcp4:127.0.0.1:58161] Login as faisal
+2016-05-06 16:55:00,790 INFO     Session 1462528486 [1 - tcp4:127.0.0.1:58161] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 16:55:00,790 INFO     Session 1462528486 [1 - tcp4:127.0.0.1:58161] Requesting client data.
+2016-05-06 16:55:00,791 INFO     Session 1462528486 [1 - tcp4:127.0.0.1:58161] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 16:55:00,791 INFO     Session 1462528486 [1 - tcp4:127.0.0.1:58161] Requesting rent...
+2016-05-06 16:55:24,375 INFO     Session 1462528486 [1 - tcp4:127.0.0.1:58161] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 17:22:08,501 INFO     Session 1462530021 [1 - tcp4:127.0.0.1:59064] Connection
+2016-05-06 17:22:08,501 INFO     Session 1462530021 [1 - tcp4:127.0.0.1:59064] Open
+2016-05-06 17:22:08,521 INFO     Session 1462530021 [1 - tcp4:127.0.0.1:59064] Received sensitive information.
+2016-05-06 17:22:08,943 INFO     Session 1462530021 [1 - tcp4:127.0.0.1:59064] Login as faisal
+2016-05-06 17:22:08,943 INFO     Session 1462530021 [1 - tcp4:127.0.0.1:59064] Message - b'{"note":"Meeting","expires":"2020-09-14 17:22:08","value":280.0,"command":"create_rent","client_id":1}'
+2016-05-06 17:22:08,943 INFO     Session 1462530021 [1 - tcp4:127.0.0.1:59064] Creating rent...
+2016-05-06 17:22:09,022 INFO     Session 1462530021 [1 - tcp4:127.0.0.1:59064] Created rent!
+2016-05-06 17:22:09,022 INFO     Session 1462530021 [1 - tcp4:127.0.0.1:59064] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:22:09,022 INFO     Session 1462530021 [1 - tcp4:127.0.0.1:59064] Requesting client data.
+2016-05-06 17:22:09,023 INFO     Session 1462530021 [1 - tcp4:127.0.0.1:59064] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 17:22:09,023 INFO     Session 1462530021 [1 - tcp4:127.0.0.1:59064] Requesting rent...
+2016-05-06 17:27:09,037 INFO     Session 1462530021 [1 - tcp4:127.0.0.1:59064] Close - 1001:Shutdown
+2016-05-06 17:46:07,834 INFO     Session 1462530021 [2 - tcp4:127.0.0.1:59814] Connection
+2016-05-06 17:46:07,835 INFO     Session 1462530021 [2 - tcp4:127.0.0.1:59814] Open
+2016-05-06 17:46:07,857 INFO     Session 1462530021 [2 - tcp4:127.0.0.1:59814] Received sensitive information.
+2016-05-06 17:46:08,305 INFO     Session 1462530021 [2 - tcp4:127.0.0.1:59814] Login as faisal
+2016-05-06 17:46:08,305 INFO     Session 1462530021 [2 - tcp4:127.0.0.1:59814] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:46:08,305 INFO     Session 1462530021 [2 - tcp4:127.0.0.1:59814] Requesting client data.
+2016-05-06 17:46:08,306 INFO     Session 1462530021 [2 - tcp4:127.0.0.1:59814] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 17:46:08,306 INFO     Session 1462530021 [2 - tcp4:127.0.0.1:59814] Starting rent...
+2016-05-06 17:47:50,493 INFO     Session 1462531665 [1 - tcp4:127.0.0.1:59876] Connection
+2016-05-06 17:47:50,494 INFO     Session 1462531665 [1 - tcp4:127.0.0.1:59876] Open
+2016-05-06 17:47:50,516 INFO     Session 1462531665 [1 - tcp4:127.0.0.1:59876] Received sensitive information.
+2016-05-06 17:47:51,235 INFO     Session 1462531665 [1 - tcp4:127.0.0.1:59876] Login as faisal
+2016-05-06 17:47:51,236 INFO     Session 1462531665 [1 - tcp4:127.0.0.1:59876] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:47:51,236 INFO     Session 1462531665 [1 - tcp4:127.0.0.1:59876] Requesting client data.
+2016-05-06 17:47:51,236 INFO     Session 1462531665 [1 - tcp4:127.0.0.1:59876] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 17:47:51,236 INFO     Session 1462531665 [1 - tcp4:127.0.0.1:59876] Starting rent...
+2016-05-06 17:48:28,898 INFO     Session 1462531702 [1 - tcp4:127.0.0.1:59895] Connection
+2016-05-06 17:48:28,902 INFO     Session 1462531702 [1 - tcp4:127.0.0.1:59895] Open
+2016-05-06 17:48:28,924 INFO     Session 1462531702 [1 - tcp4:127.0.0.1:59895] Received sensitive information.
+2016-05-06 17:48:29,670 INFO     Session 1462531702 [1 - tcp4:127.0.0.1:59895] Login as faisal
+2016-05-06 17:48:29,670 INFO     Session 1462531702 [1 - tcp4:127.0.0.1:59895] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:48:29,670 INFO     Session 1462531702 [1 - tcp4:127.0.0.1:59895] Requesting client data.
+2016-05-06 17:48:29,671 INFO     Session 1462531702 [1 - tcp4:127.0.0.1:59895] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 17:48:29,671 INFO     Session 1462531702 [1 - tcp4:127.0.0.1:59895] Starting rent...
+2016-05-06 17:48:52,441 INFO     Session 1462531727 [1 - tcp4:127.0.0.1:59913] Connection
+2016-05-06 17:48:52,442 INFO     Session 1462531727 [1 - tcp4:127.0.0.1:59913] Open
+2016-05-06 17:48:52,463 INFO     Session 1462531727 [1 - tcp4:127.0.0.1:59913] Received sensitive information.
+2016-05-06 17:48:52,891 INFO     Session 1462531727 [1 - tcp4:127.0.0.1:59913] Login as faisal
+2016-05-06 17:48:52,892 INFO     Session 1462531727 [1 - tcp4:127.0.0.1:59913] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:48:52,892 INFO     Session 1462531727 [1 - tcp4:127.0.0.1:59913] Requesting client data.
+2016-05-06 17:48:52,893 INFO     Session 1462531727 [1 - tcp4:127.0.0.1:59913] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 17:48:52,893 INFO     Session 1462531727 [1 - tcp4:127.0.0.1:59913] Starting rent...
+2016-05-06 17:48:53,074 INFO     Session 1462531727 [1 - tcp4:127.0.0.1:59913] Rent started!
+2016-05-06 17:48:53,075 INFO     Session 1462531727 [1 - tcp4:127.0.0.1:59913] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 17:48:53,075 INFO     Session 1462531727 [1 - tcp4:127.0.0.1:59913] Requesting rent.
+2016-05-06 17:49:14,095 INFO     Session 1462531727 [1 - tcp4:127.0.0.1:59913] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 17:49:21,423 INFO     Session 1462531727 [2 - tcp4:127.0.0.1:59928] Connection
+2016-05-06 17:49:21,424 INFO     Session 1462531727 [2 - tcp4:127.0.0.1:59928] Open
+2016-05-06 17:49:21,444 INFO     Session 1462531727 [2 - tcp4:127.0.0.1:59928] Received sensitive information.
+2016-05-06 17:49:21,867 INFO     Session 1462531727 [2 - tcp4:127.0.0.1:59928] Login as faisal
+2016-05-06 17:49:21,867 INFO     Session 1462531727 [2 - tcp4:127.0.0.1:59928] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:49:21,867 INFO     Session 1462531727 [2 - tcp4:127.0.0.1:59928] Requesting client data.
+2016-05-06 17:49:21,868 INFO     Session 1462531727 [2 - tcp4:127.0.0.1:59928] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 17:49:21,868 INFO     Session 1462531727 [2 - tcp4:127.0.0.1:59928] Starting rent...
+2016-05-06 17:49:22,031 INFO     Session 1462531727 [2 - tcp4:127.0.0.1:59928] Rent started!
+2016-05-06 17:49:22,032 INFO     Session 1462531727 [2 - tcp4:127.0.0.1:59928] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 17:49:22,032 INFO     Session 1462531727 [2 - tcp4:127.0.0.1:59928] Requesting rent.
+2016-05-06 17:50:16,286 INFO     Session 1462531808 [1 - tcp4:127.0.0.1:59961] Connection
+2016-05-06 17:50:16,287 INFO     Session 1462531808 [1 - tcp4:127.0.0.1:59961] Open
+2016-05-06 17:50:16,308 INFO     Session 1462531808 [1 - tcp4:127.0.0.1:59961] Received sensitive information.
+2016-05-06 17:50:17,038 INFO     Session 1462531808 [1 - tcp4:127.0.0.1:59961] Login as faisal
+2016-05-06 17:50:17,039 INFO     Session 1462531808 [1 - tcp4:127.0.0.1:59961] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:50:17,039 INFO     Session 1462531808 [1 - tcp4:127.0.0.1:59961] Requesting client data.
+2016-05-06 17:50:17,039 INFO     Session 1462531808 [1 - tcp4:127.0.0.1:59961] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 17:50:17,039 INFO     Session 1462531808 [1 - tcp4:127.0.0.1:59961] Starting rent...
+2016-05-06 17:50:17,201 INFO     Session 1462531808 [1 - tcp4:127.0.0.1:59961] Rent started!
+2016-05-06 17:50:17,202 INFO     Session 1462531808 [1 - tcp4:127.0.0.1:59961] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 17:50:17,203 INFO     Session 1462531808 [1 - tcp4:127.0.0.1:59961] Requesting rent.
+2016-05-06 17:50:29,431 INFO     Session 1462531808 [1 - tcp4:127.0.0.1:59961] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 17:51:46,304 INFO     Session 1462531898 [1 - tcp4:127.0.0.1:60007] Connection
+2016-05-06 17:51:46,305 INFO     Session 1462531898 [1 - tcp4:127.0.0.1:60007] Open
+2016-05-06 17:51:46,326 INFO     Session 1462531898 [1 - tcp4:127.0.0.1:60007] Received sensitive information.
+2016-05-06 17:51:46,756 INFO     Session 1462531898 [1 - tcp4:127.0.0.1:60007] Login as faisal
+2016-05-06 17:51:46,757 INFO     Session 1462531898 [1 - tcp4:127.0.0.1:60007] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:51:46,757 INFO     Session 1462531898 [1 - tcp4:127.0.0.1:60007] Requesting client data.
+2016-05-06 17:51:46,757 INFO     Session 1462531898 [1 - tcp4:127.0.0.1:60007] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 17:51:46,757 INFO     Session 1462531898 [1 - tcp4:127.0.0.1:60007] Starting rent...
+2016-05-06 17:51:46,923 INFO     Session 1462531898 [1 - tcp4:127.0.0.1:60007] Rent started!
+2016-05-06 17:51:46,924 INFO     Session 1462531898 [1 - tcp4:127.0.0.1:60007] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 17:51:46,924 INFO     Session 1462531898 [1 - tcp4:127.0.0.1:60007] Requesting rent.
+2016-05-06 17:52:37,137 INFO     Session 1462531948 [1 - tcp4:127.0.0.1:60032] Connection
+2016-05-06 17:52:37,137 INFO     Session 1462531948 [1 - tcp4:127.0.0.1:60032] Open
+2016-05-06 17:52:37,157 INFO     Session 1462531948 [1 - tcp4:127.0.0.1:60032] Received sensitive information.
+2016-05-06 17:52:37,595 INFO     Session 1462531948 [1 - tcp4:127.0.0.1:60032] Login as faisal
+2016-05-06 17:52:37,596 INFO     Session 1462531948 [1 - tcp4:127.0.0.1:60032] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:52:37,596 INFO     Session 1462531948 [1 - tcp4:127.0.0.1:60032] Requesting client data.
+2016-05-06 17:52:37,596 INFO     Session 1462531948 [1 - tcp4:127.0.0.1:60032] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 17:52:37,597 INFO     Session 1462531948 [1 - tcp4:127.0.0.1:60032] Starting rent...
+2016-05-06 17:52:37,778 INFO     Session 1462531948 [1 - tcp4:127.0.0.1:60032] Rent started!
+2016-05-06 17:52:37,778 INFO     Session 1462531948 [1 - tcp4:127.0.0.1:60032] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 17:52:37,778 INFO     Session 1462531948 [1 - tcp4:127.0.0.1:60032] Requesting rent.
+2016-05-06 17:53:20,797 INFO     Session 1462531993 [1 - tcp4:127.0.0.1:60062] Connection
+2016-05-06 17:53:20,797 INFO     Session 1462531993 [1 - tcp4:127.0.0.1:60062] Open
+2016-05-06 17:53:20,818 INFO     Session 1462531993 [1 - tcp4:127.0.0.1:60062] Received sensitive information.
+2016-05-06 17:53:21,241 INFO     Session 1462531993 [1 - tcp4:127.0.0.1:60062] Login as faisal
+2016-05-06 17:53:21,242 INFO     Session 1462531993 [1 - tcp4:127.0.0.1:60062] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:53:21,242 INFO     Session 1462531993 [1 - tcp4:127.0.0.1:60062] Requesting client data.
+2016-05-06 17:53:21,242 INFO     Session 1462531993 [1 - tcp4:127.0.0.1:60062] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 17:53:21,242 INFO     Session 1462531993 [1 - tcp4:127.0.0.1:60062] Starting rent...
+2016-05-06 17:53:21,242 INFO     Session 1462531993 [1 - tcp4:127.0.0.1:60062] Fail to start!
+2016-05-06 17:53:21,243 INFO     Session 1462531993 [1 - tcp4:127.0.0.1:60062] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 17:53:21,243 INFO     Session 1462531993 [1 - tcp4:127.0.0.1:60062] Requesting rent.
+2016-05-06 17:53:32,423 INFO     Session 1462531993 [1 - tcp4:127.0.0.1:60062] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 17:55:30,914 INFO     Session 1462531993 [2 - tcp4:127.0.0.1:60123] Connection
+2016-05-06 17:55:30,914 INFO     Session 1462531993 [2 - tcp4:127.0.0.1:60123] Open
+2016-05-06 17:55:30,934 INFO     Session 1462531993 [2 - tcp4:127.0.0.1:60123] Received sensitive information.
+2016-05-06 17:55:31,357 INFO     Session 1462531993 [2 - tcp4:127.0.0.1:60123] Login as faisal
+2016-05-06 17:55:31,358 INFO     Session 1462531993 [2 - tcp4:127.0.0.1:60123] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:55:31,358 INFO     Session 1462531993 [2 - tcp4:127.0.0.1:60123] Requesting client data.
+2016-05-06 17:55:31,358 INFO     Session 1462531993 [2 - tcp4:127.0.0.1:60123] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-06 17:55:31,358 INFO     Session 1462531993 [2 - tcp4:127.0.0.1:60123] Unidentified command - stop_rent
+2016-05-06 17:55:31,358 INFO     Session 1462531993 [2 - tcp4:127.0.0.1:60123] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 17:55:31,358 INFO     Session 1462531993 [2 - tcp4:127.0.0.1:60123] Requesting rent.
+2016-05-06 17:56:35,104 INFO     Session 1462532187 [1 - tcp4:127.0.0.1:60160] Connection
+2016-05-06 17:56:35,105 INFO     Session 1462532187 [1 - tcp4:127.0.0.1:60160] Open
+2016-05-06 17:56:35,128 INFO     Session 1462532187 [1 - tcp4:127.0.0.1:60160] Received sensitive information.
+2016-05-06 17:56:35,556 INFO     Session 1462532187 [1 - tcp4:127.0.0.1:60160] Login as faisal
+2016-05-06 17:56:35,557 INFO     Session 1462532187 [1 - tcp4:127.0.0.1:60160] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:56:35,557 INFO     Session 1462532187 [1 - tcp4:127.0.0.1:60160] Requesting client data.
+2016-05-06 17:56:35,557 INFO     Session 1462532187 [1 - tcp4:127.0.0.1:60160] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-06 17:56:35,557 INFO     Session 1462532187 [1 - tcp4:127.0.0.1:60160] Stopping rent...
+2016-05-06 17:57:26,158 INFO     Session 1462532233 [1 - tcp4:127.0.0.1:60188] Connection
+2016-05-06 17:57:26,159 INFO     Session 1462532233 [1 - tcp4:127.0.0.1:60188] Open
+2016-05-06 17:57:26,183 INFO     Session 1462532233 [1 - tcp4:127.0.0.1:60188] Received sensitive information.
+2016-05-06 17:57:26,901 INFO     Session 1462532233 [1 - tcp4:127.0.0.1:60188] Login as faisal
+2016-05-06 17:57:26,901 INFO     Session 1462532233 [1 - tcp4:127.0.0.1:60188] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:57:26,901 INFO     Session 1462532233 [1 - tcp4:127.0.0.1:60188] Requesting client data.
+2016-05-06 17:57:26,902 INFO     Session 1462532233 [1 - tcp4:127.0.0.1:60188] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-06 17:57:26,902 INFO     Session 1462532233 [1 - tcp4:127.0.0.1:60188] Stopping rent...
+2016-05-06 17:57:26,902 INFO     Session 1462532233 [1 - tcp4:127.0.0.1:60188] Fail to stop!
+2016-05-06 17:57:26,903 INFO     Session 1462532233 [1 - tcp4:127.0.0.1:60188] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 17:57:26,903 INFO     Session 1462532233 [1 - tcp4:127.0.0.1:60188] Requesting rent.
+2016-05-06 17:57:46,735 INFO     Session 1462532233 [1 - tcp4:127.0.0.1:60188] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 17:58:05,205 INFO     Session 1462532233 [2 - tcp4:127.0.0.1:60216] Connection
+2016-05-06 17:58:05,206 INFO     Session 1462532233 [2 - tcp4:127.0.0.1:60216] Open
+2016-05-06 17:58:05,226 INFO     Session 1462532233 [2 - tcp4:127.0.0.1:60216] Received sensitive information.
+2016-05-06 17:58:05,651 INFO     Session 1462532233 [2 - tcp4:127.0.0.1:60216] Login as faisal
+2016-05-06 17:58:05,652 INFO     Session 1462532233 [2 - tcp4:127.0.0.1:60216] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:58:05,652 INFO     Session 1462532233 [2 - tcp4:127.0.0.1:60216] Requesting client data.
+2016-05-06 17:58:05,652 INFO     Session 1462532233 [2 - tcp4:127.0.0.1:60216] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 17:58:05,652 INFO     Session 1462532233 [2 - tcp4:127.0.0.1:60216] Starting rent...
+2016-05-06 17:58:05,807 INFO     Session 1462532233 [2 - tcp4:127.0.0.1:60216] Rent started!
+2016-05-06 17:58:05,807 INFO     Session 1462532233 [2 - tcp4:127.0.0.1:60216] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-06 17:58:05,807 INFO     Session 1462532233 [2 - tcp4:127.0.0.1:60216] Stopping rent...
+2016-05-06 17:58:41,746 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Connection
+2016-05-06 17:58:41,747 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Open
+2016-05-06 17:58:41,767 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Received sensitive information.
+2016-05-06 17:58:42,518 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Login as faisal
+2016-05-06 17:58:42,519 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 17:58:42,519 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Requesting client data.
+2016-05-06 17:58:42,519 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 17:58:42,520 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Starting rent...
+2016-05-06 17:58:42,677 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Rent started!
+2016-05-06 17:58:42,678 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-06 17:58:42,678 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Stopping rent...
+2016-05-06 17:58:42,950 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Rent stopped!
+2016-05-06 17:58:42,951 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 17:58:42,951 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Requesting rent.
+2016-05-06 17:59:02,798 INFO     Session 1462532310 [1 - tcp4:127.0.0.1:60239] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 18:00:32,541 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Connection
+2016-05-06 18:00:32,542 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Open
+2016-05-06 18:00:32,562 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Received sensitive information.
+2016-05-06 18:00:33,279 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Login as faisal
+2016-05-06 18:00:33,280 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 18:00:33,280 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Requesting client data.
+2016-05-06 18:00:33,281 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 18:00:33,281 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Starting rent...
+2016-05-06 18:00:33,447 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Rent started!
+2016-05-06 18:00:33,448 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-06 18:00:33,449 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Stopping rent...
+2016-05-06 18:00:35,112 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Rent stopped!
+2016-05-06 18:00:35,112 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 18:00:35,112 INFO     Session 1462532425 [1 - tcp4:127.0.0.1:60294] Requesting rent.
+2016-05-06 18:02:53,290 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Connection
+2016-05-06 18:02:53,291 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Open
+2016-05-06 18:02:53,312 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Received sensitive information.
+2016-05-06 18:02:54,067 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Login as faisal
+2016-05-06 18:02:54,067 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 18:02:54,068 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Requesting client data.
+2016-05-06 18:02:54,068 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 18:02:54,068 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Starting rent...
+2016-05-06 18:02:54,242 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Rent started!
+2016-05-06 18:02:54,242 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-06 18:02:54,243 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Stopping rent...
+2016-05-06 18:02:54,501 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Rent stopped!
+2016-05-06 18:02:54,502 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 18:02:54,502 INFO     Session 1462532565 [1 - tcp4:127.0.0.1:60406] Requesting rent.
+2016-05-06 18:03:44,858 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Connection
+2016-05-06 18:03:44,859 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Open
+2016-05-06 18:03:44,881 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Received sensitive information.
+2016-05-06 18:03:45,310 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Login as faisal
+2016-05-06 18:03:45,311 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 18:03:45,311 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Requesting client data.
+2016-05-06 18:03:45,311 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 18:03:45,312 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Starting rent...
+2016-05-06 18:03:45,578 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Rent started!
+2016-05-06 18:03:45,578 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-06 18:03:45,578 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Stopping rent...
+2016-05-06 18:03:45,882 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Rent stopped!
+2016-05-06 18:03:45,883 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 18:03:45,884 INFO     Session 1462532617 [1 - tcp4:127.0.0.1:60432] Requesting rent.
+2016-05-06 18:06:49,995 INFO     Session 1462532783 [1 - tcp4:127.0.0.1:60523] Connection
+2016-05-06 18:06:49,995 INFO     Session 1462532783 [1 - tcp4:127.0.0.1:60523] Open
+2016-05-06 18:06:50,016 INFO     Session 1462532783 [1 - tcp4:127.0.0.1:60523] Received sensitive information.
+2016-05-06 18:06:50,740 INFO     Session 1462532783 [1 - tcp4:127.0.0.1:60523] Login as faisal
+2016-05-06 18:06:50,741 INFO     Session 1462532783 [1 - tcp4:127.0.0.1:60523] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 18:06:50,741 INFO     Session 1462532783 [1 - tcp4:127.0.0.1:60523] Requesting client data.
+2016-05-06 18:06:50,741 INFO     Session 1462532783 [1 - tcp4:127.0.0.1:60523] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 18:06:50,742 INFO     Session 1462532783 [1 - tcp4:127.0.0.1:60523] Starting rent...
+2016-05-06 18:06:50,900 INFO     Session 1462532783 [1 - tcp4:127.0.0.1:60523] Rent started!
+2016-05-06 18:06:50,901 INFO     Session 1462532783 [1 - tcp4:127.0.0.1:60523] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 18:06:50,901 INFO     Session 1462532783 [1 - tcp4:127.0.0.1:60523] Requesting rent.
+2016-05-06 18:06:54,871 INFO     Session 1462532783 [1 - tcp4:127.0.0.1:60523] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 18:07:08,738 INFO     Session 1462532783 [2 - tcp4:127.0.0.1:60534] Connection
+2016-05-06 18:07:08,739 INFO     Session 1462532783 [2 - tcp4:127.0.0.1:60534] Open
+2016-05-06 18:07:08,760 INFO     Session 1462532783 [2 - tcp4:127.0.0.1:60534] Received sensitive information.
+2016-05-06 18:07:09,183 INFO     Session 1462532783 [2 - tcp4:127.0.0.1:60534] Login as faisal
+2016-05-06 18:07:09,183 INFO     Session 1462532783 [2 - tcp4:127.0.0.1:60534] Message - b'{"name":null,"command":"get_client"}'
+2016-05-06 18:07:09,183 INFO     Session 1462532783 [2 - tcp4:127.0.0.1:60534] Requesting client data.
+2016-05-06 18:07:09,184 INFO     Session 1462532783 [2 - tcp4:127.0.0.1:60534] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-06 18:07:09,184 INFO     Session 1462532783 [2 - tcp4:127.0.0.1:60534] Stopping rent...
+2016-05-06 18:07:09,430 INFO     Session 1462532783 [2 - tcp4:127.0.0.1:60534] Rent stopped!
+2016-05-06 18:07:09,431 INFO     Session 1462532783 [2 - tcp4:127.0.0.1:60534] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-06 18:07:09,431 INFO     Session 1462532783 [2 - tcp4:127.0.0.1:60534] Requesting rent.
+2016-05-06 18:08:07,959 INFO     Session 1462532783 [2 - tcp4:127.0.0.1:60534] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 23:34:27,848 INFO     Session 1462552414 [1 - tcp4:127.0.0.1:54638] Connection
+2016-05-06 23:34:27,864 INFO     Session 1462552414 [1 - tcp4:127.0.0.1:54638] Open
+2016-05-06 23:34:27,917 INFO     Session 1462552414 [1 - tcp4:127.0.0.1:54638] Received sensitive information.
+2016-05-06 23:34:28,334 INFO     Session 1462552414 [1 - tcp4:127.0.0.1:54638] Login as faisal
+2016-05-06 23:34:28,335 INFO     Session 1462552414 [1 - tcp4:127.0.0.1:54638] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Jakarta","gender":false,"dob":"2020-09-14 23:34:27","name":"Faisal","married":false,"command":"add_client","religion":"Islam"}'
+2016-05-06 23:34:28,335 INFO     Session 1462552414 [1 - tcp4:127.0.0.1:54638] Inserting client...
+2016-05-06 23:34:28,408 INFO     Session 1462552414 [1 - tcp4:127.0.0.1:54638] Insert successful!
+2016-05-06 23:34:37,104 INFO     Session 1462552414 [1 - tcp4:127.0.0.1:54638] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 23:35:48,710 INFO     Session 1462552414 [2 - tcp4:127.0.0.1:54648] Connection
+2016-05-06 23:35:48,710 INFO     Session 1462552414 [2 - tcp4:127.0.0.1:54648] Open
+2016-05-06 23:35:48,737 INFO     Session 1462552414 [2 - tcp4:127.0.0.1:54648] Received sensitive information.
+2016-05-06 23:35:49,151 INFO     Session 1462552414 [2 - tcp4:127.0.0.1:54648] Login as faisal
+2016-05-06 23:35:49,152 INFO     Session 1462552414 [2 - tcp4:127.0.0.1:54648] Message - b'{"note":"Meeting","expires":"2020-09-14 23:35:48","value":240.0,"command":"create_rent","client_id":1}'
+2016-05-06 23:35:49,152 INFO     Session 1462552414 [2 - tcp4:127.0.0.1:54648] Creating rent...
+2016-05-06 23:35:49,152 INFO     Session 1462552414 [2 - tcp4:127.0.0.1:54648] Fail to create!
+2016-05-06 23:38:08,952 INFO     Session 1462552680 [1 - tcp4:127.0.0.1:54660] Connection
+2016-05-06 23:38:08,952 INFO     Session 1462552680 [1 - tcp4:127.0.0.1:54660] Open
+2016-05-06 23:38:08,971 INFO     Session 1462552680 [1 - tcp4:127.0.0.1:54660] Received sensitive information.
+2016-05-06 23:38:09,403 INFO     Session 1462552680 [1 - tcp4:127.0.0.1:54660] Login as faisal
+2016-05-06 23:38:09,404 INFO     Session 1462552680 [1 - tcp4:127.0.0.1:54660] Message - b'{"note":"Meeting","expires":"2020-09-14 23:38:08","value":240.0,"command":"create_rent","client_id":1}'
+2016-05-06 23:38:09,404 INFO     Session 1462552680 [1 - tcp4:127.0.0.1:54660] Creating rent...
+2016-05-06 23:38:09,404 INFO     Session 1462552680 [1 - tcp4:127.0.0.1:54660] Fail to create!
+2016-05-06 23:38:51,285 INFO     Session 1462552725 [1 - tcp4:127.0.0.1:54671] Connection
+2016-05-06 23:38:51,285 INFO     Session 1462552725 [1 - tcp4:127.0.0.1:54671] Open
+2016-05-06 23:38:51,305 INFO     Session 1462552725 [1 - tcp4:127.0.0.1:54671] Received sensitive information.
+2016-05-06 23:38:52,021 INFO     Session 1462552725 [1 - tcp4:127.0.0.1:54671] Login as faisal
+2016-05-06 23:38:52,021 INFO     Session 1462552725 [1 - tcp4:127.0.0.1:54671] Message - b'{"note":"Meeting","expires":"2020-09-14 23:38:51","value":240.0,"command":"create_rent","client_id":1}'
+2016-05-06 23:38:52,021 INFO     Session 1462552725 [1 - tcp4:127.0.0.1:54671] Creating rent...
+2016-05-06 23:38:52,165 INFO     Session 1462552725 [1 - tcp4:127.0.0.1:54671] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 23:39:39,786 INFO     Session 1462552773 [1 - tcp4:127.0.0.1:54678] Connection
+2016-05-06 23:39:39,787 INFO     Session 1462552773 [1 - tcp4:127.0.0.1:54678] Open
+2016-05-06 23:39:39,811 INFO     Session 1462552773 [1 - tcp4:127.0.0.1:54678] Received sensitive information.
+2016-05-06 23:39:40,519 INFO     Session 1462552773 [1 - tcp4:127.0.0.1:54678] Login as faisal
+2016-05-06 23:39:40,519 INFO     Session 1462552773 [1 - tcp4:127.0.0.1:54678] Message - b'{"note":"Meeting","expires":"2020-09-14 23:39:39","value":240.0,"command":"create_rent","client_id":1}'
+2016-05-06 23:39:40,519 INFO     Session 1462552773 [1 - tcp4:127.0.0.1:54678] Creating rent...
+2016-05-06 23:39:40,519 INFO     Session 1462552773 [1 - tcp4:127.0.0.1:54678] Fail to create!
+2016-05-06 23:40:18,193 INFO     Session 1462552810 [1 - tcp4:127.0.0.1:54686] Connection
+2016-05-06 23:40:18,194 INFO     Session 1462552810 [1 - tcp4:127.0.0.1:54686] Open
+2016-05-06 23:40:18,217 INFO     Session 1462552810 [1 - tcp4:127.0.0.1:54686] Received sensitive information.
+2016-05-06 23:40:18,924 INFO     Session 1462552810 [1 - tcp4:127.0.0.1:54686] Login as faisal
+2016-05-06 23:40:18,925 INFO     Session 1462552810 [1 - tcp4:127.0.0.1:54686] Message - b'{"note":"Meeting","expires":"2020-09-14 23:40:18","value":240.0,"command":"create_rent","client_id":1}'
+2016-05-06 23:40:18,925 INFO     Session 1462552810 [1 - tcp4:127.0.0.1:54686] Creating rent...
+2016-05-06 23:40:19,000 INFO     Session 1462552810 [1 - tcp4:127.0.0.1:54686] Created rent!
+2016-05-06 23:41:13,834 INFO     Session 1462552810 [1 - tcp4:127.0.0.1:54686] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 23:41:43,364 INFO     Session 1462552810 [2 - tcp4:127.0.0.1:54707] Connection
+2016-05-06 23:41:43,364 INFO     Session 1462552810 [2 - tcp4:127.0.0.1:54707] Open
+2016-05-06 23:41:43,384 INFO     Session 1462552810 [2 - tcp4:127.0.0.1:54707] Received sensitive information.
+2016-05-06 23:41:43,802 INFO     Session 1462552810 [2 - tcp4:127.0.0.1:54707] Login as faisal
+2016-05-06 23:41:43,802 INFO     Session 1462552810 [2 - tcp4:127.0.0.1:54707] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 23:41:43,802 INFO     Session 1462552810 [2 - tcp4:127.0.0.1:54707] Starting rent...
+2016-05-06 23:41:43,807 INFO     Session 1462552810 [2 - tcp4:127.0.0.1:54707] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 23:42:23,956 INFO     Session 1462552937 [1 - tcp4:127.0.0.1:54719] Connection
+2016-05-06 23:42:23,956 INFO     Session 1462552937 [1 - tcp4:127.0.0.1:54719] Open
+2016-05-06 23:42:23,976 INFO     Session 1462552937 [1 - tcp4:127.0.0.1:54719] Received sensitive information.
+2016-05-06 23:42:24,389 INFO     Session 1462552937 [1 - tcp4:127.0.0.1:54719] Login as faisal
+2016-05-06 23:42:24,390 INFO     Session 1462552937 [1 - tcp4:127.0.0.1:54719] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 23:42:24,390 INFO     Session 1462552937 [1 - tcp4:127.0.0.1:54719] Starting rent...
+2016-05-06 23:42:24,534 INFO     Session 1462552937 [1 - tcp4:127.0.0.1:54719] Rent started!
+2016-05-06 23:43:48,616 INFO     Session 1462552994 [1 - tcp4:127.0.0.1:54738] Connection
+2016-05-06 23:43:48,616 INFO     Session 1462552994 [1 - tcp4:127.0.0.1:54738] Open
+2016-05-06 23:43:48,636 INFO     Session 1462552994 [1 - tcp4:127.0.0.1:54738] Received sensitive information.
+2016-05-06 23:43:49,047 INFO     Session 1462552994 [1 - tcp4:127.0.0.1:54738] Login as faisal2
+2016-05-06 23:43:49,048 INFO     Session 1462552994 [1 - tcp4:127.0.0.1:54738] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-06 23:43:49,048 INFO     Session 1462552994 [1 - tcp4:127.0.0.1:54738] Stopping rent...
+2016-05-06 23:43:49,355 INFO     Session 1462552994 [1 - tcp4:127.0.0.1:54738] Rent stopped!
+2016-05-06 23:43:53,854 INFO     Session 1462552994 [1 - tcp4:127.0.0.1:54738] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 23:44:00,459 INFO     Session 1462552994 [2 - tcp4:127.0.0.1:54743] Connection
+2016-05-06 23:44:00,460 INFO     Session 1462552994 [2 - tcp4:127.0.0.1:54743] Open
+2016-05-06 23:44:00,481 INFO     Session 1462552994 [2 - tcp4:127.0.0.1:54743] Received sensitive information.
+2016-05-06 23:44:00,903 INFO     Session 1462552994 [2 - tcp4:127.0.0.1:54743] Login as faisal2
+2016-05-06 23:44:00,903 INFO     Session 1462552994 [2 - tcp4:127.0.0.1:54743] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-06 23:44:00,903 INFO     Session 1462552994 [2 - tcp4:127.0.0.1:54743] Stopping rent...
+2016-05-06 23:44:00,903 INFO     Session 1462552994 [2 - tcp4:127.0.0.1:54743] Fail to stop!
+2016-05-06 23:45:10,905 INFO     Session 1462553098 [1 - tcp4:127.0.0.1:54758] Connection
+2016-05-06 23:45:10,906 INFO     Session 1462553098 [1 - tcp4:127.0.0.1:54758] Open
+2016-05-06 23:45:10,926 INFO     Session 1462553098 [1 - tcp4:127.0.0.1:54758] Received sensitive information.
+2016-05-06 23:45:11,625 INFO     Session 1462553098 [1 - tcp4:127.0.0.1:54758] Login as faisal2
+2016-05-06 23:45:11,625 INFO     Session 1462553098 [1 - tcp4:127.0.0.1:54758] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-06 23:45:11,625 INFO     Session 1462553098 [1 - tcp4:127.0.0.1:54758] Starting rent...
+2016-05-06 23:45:11,784 INFO     Session 1462553098 [1 - tcp4:127.0.0.1:54758] Rent started!
+2016-05-06 23:45:16,772 INFO     Session 1462553098 [1 - tcp4:127.0.0.1:54758] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-06 23:45:28,335 INFO     Session 1462553098 [2 - tcp4:127.0.0.1:54764] Connection
+2016-05-06 23:45:28,335 INFO     Session 1462553098 [2 - tcp4:127.0.0.1:54764] Open
+2016-05-06 23:45:28,355 INFO     Session 1462553098 [2 - tcp4:127.0.0.1:54764] Received sensitive information.
+2016-05-06 23:45:28,768 INFO     Session 1462553098 [2 - tcp4:127.0.0.1:54764] Login as faisal2
+2016-05-06 23:45:28,768 INFO     Session 1462553098 [2 - tcp4:127.0.0.1:54764] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-06 23:45:28,768 INFO     Session 1462553098 [2 - tcp4:127.0.0.1:54764] Stopping rent...
+2016-05-06 23:45:29,005 INFO     Session 1462553098 [2 - tcp4:127.0.0.1:54764] Rent stopped!
+2016-05-06 23:45:31,896 INFO     Session 1462553098 [2 - tcp4:127.0.0.1:54764] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 00:02:37,193 INFO     Session 1462554138 [1 - tcp4:127.0.0.1:54996] Connection
+2016-05-07 00:02:37,194 INFO     Session 1462554138 [1 - tcp4:127.0.0.1:54996] Open
+2016-05-07 00:02:37,218 INFO     Session 1462554138 [1 - tcp4:127.0.0.1:54996] Received sensitive information.
+2016-05-07 00:02:37,660 INFO     Session 1462554138 [1 - tcp4:127.0.0.1:54996] Login as faisal2
+2016-05-07 00:02:37,661 INFO     Session 1462554138 [1 - tcp4:127.0.0.1:54996] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 00:02:37,661 INFO     Session 1462554138 [1 - tcp4:127.0.0.1:54996] Requesting rent.
+2016-05-07 00:03:43,188 INFO     Session 1462554215 [1 - tcp4:127.0.0.1:55007] Connection
+2016-05-07 00:03:43,189 INFO     Session 1462554215 [1 - tcp4:127.0.0.1:55007] Open
+2016-05-07 00:03:43,210 INFO     Session 1462554215 [1 - tcp4:127.0.0.1:55007] Received sensitive information.
+2016-05-07 00:03:43,646 INFO     Session 1462554215 [1 - tcp4:127.0.0.1:55007] Login as faisal2
+2016-05-07 00:03:43,647 INFO     Session 1462554215 [1 - tcp4:127.0.0.1:55007] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 00:03:43,647 INFO     Session 1462554215 [1 - tcp4:127.0.0.1:55007] Requesting rent.
+2016-05-07 00:04:44,803 INFO     Session 1462554278 [1 - tcp4:127.0.0.1:55060] Connection
+2016-05-07 00:04:44,804 INFO     Session 1462554278 [1 - tcp4:127.0.0.1:55060] Open
+2016-05-07 00:04:44,827 INFO     Session 1462554278 [1 - tcp4:127.0.0.1:55060] Received sensitive information.
+2016-05-07 00:04:45,260 INFO     Session 1462554278 [1 - tcp4:127.0.0.1:55060] Login as faisal2
+2016-05-07 00:04:45,260 INFO     Session 1462554278 [1 - tcp4:127.0.0.1:55060] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 00:04:45,260 INFO     Session 1462554278 [1 - tcp4:127.0.0.1:55060] Requesting rent.
+2016-05-07 00:08:55,157 INFO     Session 1462554528 [1 - tcp4:127.0.0.1:55091] Connection
+2016-05-07 00:08:55,158 INFO     Session 1462554528 [1 - tcp4:127.0.0.1:55091] Open
+2016-05-07 00:08:55,180 INFO     Session 1462554528 [1 - tcp4:127.0.0.1:55091] Received sensitive information.
+2016-05-07 00:08:55,632 INFO     Session 1462554528 [1 - tcp4:127.0.0.1:55091] Login as faisal2
+2016-05-07 00:08:55,633 INFO     Session 1462554528 [1 - tcp4:127.0.0.1:55091] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 00:08:55,633 INFO     Session 1462554528 [1 - tcp4:127.0.0.1:55091] Requesting rent.
+2016-05-07 00:09:38,075 INFO     Session 1462554528 [1 - tcp4:127.0.0.1:55091] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 00:12:31,745 INFO     Session 1462554744 [1 - tcp4:127.0.0.1:55124] Connection
+2016-05-07 00:12:31,747 INFO     Session 1462554744 [1 - tcp4:127.0.0.1:55124] Open
+2016-05-07 00:12:31,767 INFO     Session 1462554744 [1 - tcp4:127.0.0.1:55124] Received sensitive information.
+2016-05-07 00:12:32,208 INFO     Session 1462554744 [1 - tcp4:127.0.0.1:55124] Login as faisal2
+2016-05-07 00:12:32,209 INFO     Session 1462554744 [1 - tcp4:127.0.0.1:55124] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 00:12:32,209 INFO     Session 1462554744 [1 - tcp4:127.0.0.1:55124] Requesting rent.
+2016-05-07 00:13:10,641 INFO     Session 1462554780 [1 - tcp4:127.0.0.1:55140] Connection
+2016-05-07 00:13:10,642 INFO     Session 1462554780 [1 - tcp4:127.0.0.1:55140] Open
+2016-05-07 00:13:10,663 INFO     Session 1462554780 [1 - tcp4:127.0.0.1:55140] Received sensitive information.
+2016-05-07 00:13:11,398 INFO     Session 1462554780 [1 - tcp4:127.0.0.1:55140] Login as faisal2
+2016-05-07 00:13:11,398 INFO     Session 1462554780 [1 - tcp4:127.0.0.1:55140] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 00:13:11,398 INFO     Session 1462554780 [1 - tcp4:127.0.0.1:55140] Requesting rent.
+2016-05-07 00:13:49,056 INFO     Session 1462554820 [1 - tcp4:127.0.0.1:55148] Connection
+2016-05-07 00:13:49,057 INFO     Session 1462554820 [1 - tcp4:127.0.0.1:55148] Open
+2016-05-07 00:13:49,078 INFO     Session 1462554820 [1 - tcp4:127.0.0.1:55148] Received sensitive information.
+2016-05-07 00:13:49,519 INFO     Session 1462554820 [1 - tcp4:127.0.0.1:55148] Login as faisal2
+2016-05-07 00:13:49,519 INFO     Session 1462554820 [1 - tcp4:127.0.0.1:55148] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 00:13:49,520 INFO     Session 1462554820 [1 - tcp4:127.0.0.1:55148] Requesting rent.
+2016-05-07 00:14:06,074 INFO     Session 1462554820 [1 - tcp4:127.0.0.1:55148] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 00:16:47,364 INFO     Session 1462554999 [1 - tcp4:127.0.0.1:55174] Connection
+2016-05-07 00:16:47,365 INFO     Session 1462554999 [1 - tcp4:127.0.0.1:55174] Open
+2016-05-07 00:16:47,384 INFO     Session 1462554999 [1 - tcp4:127.0.0.1:55174] Received sensitive information.
+2016-05-07 00:16:47,833 INFO     Session 1462554999 [1 - tcp4:127.0.0.1:55174] Login as faisal2
+2016-05-07 00:16:47,833 INFO     Session 1462554999 [1 - tcp4:127.0.0.1:55174] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 00:16:47,833 INFO     Session 1462554999 [1 - tcp4:127.0.0.1:55174] Requesting rent.
+2016-05-07 00:17:13,144 INFO     Session 1462555026 [1 - tcp4:127.0.0.1:55185] Connection
+2016-05-07 00:17:13,145 INFO     Session 1462555026 [1 - tcp4:127.0.0.1:55185] Open
+2016-05-07 00:17:13,165 INFO     Session 1462555026 [1 - tcp4:127.0.0.1:55185] Received sensitive information.
+2016-05-07 00:17:13,634 INFO     Session 1462555026 [1 - tcp4:127.0.0.1:55185] Login as faisal2
+2016-05-07 00:17:13,635 INFO     Session 1462555026 [1 - tcp4:127.0.0.1:55185] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 00:17:13,635 INFO     Session 1462555026 [1 - tcp4:127.0.0.1:55185] Requesting rent.
+2016-05-07 00:21:50,607 INFO     Session 1462555302 [1 - tcp4:127.0.0.1:55209] Connection
+2016-05-07 00:21:50,609 INFO     Session 1462555302 [1 - tcp4:127.0.0.1:55209] Open
+2016-05-07 00:21:50,631 INFO     Session 1462555302 [1 - tcp4:127.0.0.1:55209] Received sensitive information.
+2016-05-07 00:21:51,071 INFO     Session 1462555302 [1 - tcp4:127.0.0.1:55209] Login as faisal2
+2016-05-07 00:21:51,072 INFO     Session 1462555302 [1 - tcp4:127.0.0.1:55209] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 00:21:51,072 INFO     Session 1462555302 [1 - tcp4:127.0.0.1:55209] Requesting rent.
+2016-05-07 00:22:02,389 INFO     Session 1462555302 [2 - tcp4:127.0.0.1:55215] Connection
+2016-05-07 00:22:02,390 INFO     Session 1462555302 [2 - tcp4:127.0.0.1:55215] Open
+2016-05-07 00:22:02,414 INFO     Session 1462555302 [2 - tcp4:127.0.0.1:55215] Received sensitive information.
+2016-05-07 00:22:02,414 INFO     Session 1462555302 [2 - tcp4:127.0.0.1:55215] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 00:22:02,414 INFO     Session 1462555302 [2 - tcp4:127.0.0.1:55215] Unable to give verification and is kicked.
+2016-05-07 00:22:02,417 INFO     Session 1462555302 [2 - tcp4:127.0.0.1:55215] Close - 1000:User is logged in!
+2016-05-07 00:22:09,422 INFO     Session 1462555302 [1 - tcp4:127.0.0.1:55209] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 00:22:56,627 INFO     Session 1462555370 [1 - tcp4:127.0.0.1:55227] Connection
+2016-05-07 00:22:56,628 INFO     Session 1462555370 [1 - tcp4:127.0.0.1:55227] Open
+2016-05-07 00:22:56,650 INFO     Session 1462555370 [1 - tcp4:127.0.0.1:55227] Received sensitive information.
+2016-05-07 00:22:57,130 INFO     Session 1462555370 [1 - tcp4:127.0.0.1:55227] Login as faisal2
+2016-05-07 00:22:57,131 INFO     Session 1462555370 [1 - tcp4:127.0.0.1:55227] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 00:22:57,131 INFO     Session 1462555370 [1 - tcp4:127.0.0.1:55227] Requesting rent.
+2016-05-07 00:23:03,631 INFO     Session 1462555370 [2 - tcp4:127.0.0.1:55232] Connection
+2016-05-07 00:23:03,632 INFO     Session 1462555370 [2 - tcp4:127.0.0.1:55232] Open
+2016-05-07 00:23:03,657 INFO     Session 1462555370 [2 - tcp4:127.0.0.1:55232] Received sensitive information.
+2016-05-07 00:23:03,658 INFO     Session 1462555370 [2 - tcp4:127.0.0.1:55232] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 00:23:03,658 INFO     Session 1462555370 [2 - tcp4:127.0.0.1:55232] Unable to give verification and is kicked.
+2016-05-07 00:23:03,661 INFO     Session 1462555370 [2 - tcp4:127.0.0.1:55232] Close - 1000:User is logged in!
+2016-05-07 01:09:47,986 INFO     Session 1462558182 [1 - tcp4:127.0.0.1:56609] Connection
+2016-05-07 01:09:48,003 INFO     Session 1462558182 [1 - tcp4:127.0.0.1:56609] Open
+2016-05-07 01:09:48,024 INFO     Session 1462558182 [1 - tcp4:127.0.0.1:56609] Received sensitive information.
+2016-05-07 01:09:48,767 INFO     Session 1462558182 [1 - tcp4:127.0.0.1:56609] Login as faisal2
+2016-05-07 01:09:48,768 INFO     Session 1462558182 [1 - tcp4:127.0.0.1:56609] Message - b'{"note":"Meeting","expires":"2020-09-14 01:09:48","value":240.0,"command":"create_rent","client_id":1}'
+2016-05-07 01:09:48,768 INFO     Session 1462558182 [1 - tcp4:127.0.0.1:56609] Creating rent...
+2016-05-07 01:09:48,832 INFO     Session 1462558182 [1 - tcp4:127.0.0.1:56609] Created rent!
+2016-05-07 01:09:48,833 INFO     Session 1462558182 [1 - tcp4:127.0.0.1:56609] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 01:09:48,833 INFO     Session 1462558182 [1 - tcp4:127.0.0.1:56609] Requesting rent.
+2016-05-07 01:10:23,744 INFO     Session 1462558182 [1 - tcp4:127.0.0.1:56609] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 01:10:53,756 INFO     Session 1462558232 [1 - tcp4:127.0.0.1:56647] Connection
+2016-05-07 01:10:53,756 INFO     Session 1462558232 [1 - tcp4:127.0.0.1:56647] Open
+2016-05-07 01:10:53,777 INFO     Session 1462558232 [1 - tcp4:127.0.0.1:56647] Received sensitive information.
+2016-05-07 01:10:54,205 INFO     Session 1462558232 [1 - tcp4:127.0.0.1:56647] Login as faisal2
+2016-05-07 01:10:54,206 INFO     Session 1462558232 [1 - tcp4:127.0.0.1:56647] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 01:10:54,206 INFO     Session 1462558232 [1 - tcp4:127.0.0.1:56647] Requesting rent.
+2016-05-07 01:17:01,953 INFO     Session 1462558232 [1 - tcp4:127.0.0.1:56647] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 01:17:08,307 INFO     Session 1462558232 [2 - tcp4:127.0.0.1:56851] Connection
+2016-05-07 01:17:08,308 INFO     Session 1462558232 [2 - tcp4:127.0.0.1:56851] Open
+2016-05-07 01:17:08,332 INFO     Session 1462558232 [2 - tcp4:127.0.0.1:56851] Received sensitive information.
+2016-05-07 01:17:08,761 INFO     Session 1462558232 [2 - tcp4:127.0.0.1:56851] Login as faisal2
+2016-05-07 01:17:08,762 INFO     Session 1462558232 [2 - tcp4:127.0.0.1:56851] Message - b'{"note":"Meeting","command":"get_rent","client_id":1}'
+2016-05-07 01:17:08,762 INFO     Session 1462558232 [2 - tcp4:127.0.0.1:56851] Requesting rent.
+2016-05-07 01:17:08,896 INFO     Session 1462558232 [2 - tcp4:127.0.0.1:56851] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 01:17:21,999 INFO     Session 1462558636 [1 - tcp4:127.0.0.1:56863] Connection
+2016-05-07 01:17:22,000 INFO     Session 1462558636 [1 - tcp4:127.0.0.1:56863] Open
+2016-05-07 01:17:22,020 INFO     Session 1462558636 [1 - tcp4:127.0.0.1:56863] Received sensitive information.
+2016-05-07 01:17:22,738 INFO     Session 1462558636 [1 - tcp4:127.0.0.1:56863] Login as faisal2
+2016-05-07 01:17:22,739 INFO     Session 1462558636 [1 - tcp4:127.0.0.1:56863] Message - b'{"note":"Meeting","command":"get_rent","client_id":1}'
+2016-05-07 01:17:22,740 INFO     Session 1462558636 [1 - tcp4:127.0.0.1:56863] Requesting rent.
+2016-05-07 01:18:06,441 INFO     Session 1462558636 [1 - tcp4:127.0.0.1:56863] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 01:18:12,518 INFO     Session 1462558636 [2 - tcp4:127.0.0.1:56892] Connection
+2016-05-07 01:18:12,519 INFO     Session 1462558636 [2 - tcp4:127.0.0.1:56892] Open
+2016-05-07 01:18:12,538 INFO     Session 1462558636 [2 - tcp4:127.0.0.1:56892] Received sensitive information.
+2016-05-07 01:18:12,962 INFO     Session 1462558636 [2 - tcp4:127.0.0.1:56892] Login as faisal2
+2016-05-07 01:18:12,962 INFO     Session 1462558636 [2 - tcp4:127.0.0.1:56892] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 01:18:12,962 INFO     Session 1462558636 [2 - tcp4:127.0.0.1:56892] Requesting rent.
+2016-05-07 01:18:48,802 INFO     Session 1462558715 [1 - tcp4:127.0.0.1:56911] Connection
+2016-05-07 01:18:48,803 INFO     Session 1462558715 [1 - tcp4:127.0.0.1:56911] Open
+2016-05-07 01:18:48,824 INFO     Session 1462558715 [1 - tcp4:127.0.0.1:56911] Received sensitive information.
+2016-05-07 01:18:49,539 INFO     Session 1462558715 [1 - tcp4:127.0.0.1:56911] Login as faisal2
+2016-05-07 01:18:49,540 INFO     Session 1462558715 [1 - tcp4:127.0.0.1:56911] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 01:18:49,540 INFO     Session 1462558715 [1 - tcp4:127.0.0.1:56911] Requesting rent.
+2016-05-07 01:19:22,320 INFO     Session 1462558756 [1 - tcp4:127.0.0.1:56932] Connection
+2016-05-07 01:19:22,321 INFO     Session 1462558756 [1 - tcp4:127.0.0.1:56932] Open
+2016-05-07 01:19:22,343 INFO     Session 1462558756 [1 - tcp4:127.0.0.1:56932] Received sensitive information.
+2016-05-07 01:19:22,766 INFO     Session 1462558756 [1 - tcp4:127.0.0.1:56932] Login as faisal2
+2016-05-07 01:19:22,767 INFO     Session 1462558756 [1 - tcp4:127.0.0.1:56932] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 01:19:22,767 INFO     Session 1462558756 [1 - tcp4:127.0.0.1:56932] Requesting rent.
+2016-05-07 01:20:39,992 INFO     Session 1462558826 [1 - tcp4:127.0.0.1:56973] Connection
+2016-05-07 01:20:39,993 INFO     Session 1462558826 [1 - tcp4:127.0.0.1:56973] Open
+2016-05-07 01:20:40,016 INFO     Session 1462558826 [1 - tcp4:127.0.0.1:56973] Received sensitive information.
+2016-05-07 01:20:40,737 INFO     Session 1462558826 [1 - tcp4:127.0.0.1:56973] Login as faisal2
+2016-05-07 01:20:40,737 INFO     Session 1462558826 [1 - tcp4:127.0.0.1:56973] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 01:20:40,737 INFO     Session 1462558826 [1 - tcp4:127.0.0.1:56973] Requesting rent.
+2016-05-07 01:20:49,718 INFO     Session 1462558826 [1 - tcp4:127.0.0.1:56973] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 01:22:06,010 INFO     Session 1462558910 [1 - tcp4:127.0.0.1:57022] Connection
+2016-05-07 01:22:06,011 INFO     Session 1462558910 [1 - tcp4:127.0.0.1:57022] Open
+2016-05-07 01:22:06,032 INFO     Session 1462558910 [1 - tcp4:127.0.0.1:57022] Received sensitive information.
+2016-05-07 01:22:06,456 INFO     Session 1462558910 [1 - tcp4:127.0.0.1:57022] Login as faisal2
+2016-05-07 01:22:06,457 INFO     Session 1462558910 [1 - tcp4:127.0.0.1:57022] Message - b'{"note":"Meeting","expires":"2020-09-14 01:22:06","value":240.0,"command":"create_rent","client_id":1}'
+2016-05-07 01:22:06,457 INFO     Session 1462558910 [1 - tcp4:127.0.0.1:57022] Creating rent...
+2016-05-07 01:22:06,528 INFO     Session 1462558910 [1 - tcp4:127.0.0.1:57022] Created rent!
+2016-05-07 01:22:06,529 INFO     Session 1462558910 [1 - tcp4:127.0.0.1:57022] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 01:22:06,529 INFO     Session 1462558910 [1 - tcp4:127.0.0.1:57022] Requesting rent.
+2016-05-07 01:22:21,506 INFO     Session 1462558910 [1 - tcp4:127.0.0.1:57022] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 01:22:27,739 INFO     Session 1462558910 [2 - tcp4:127.0.0.1:57035] Connection
+2016-05-07 01:22:27,740 INFO     Session 1462558910 [2 - tcp4:127.0.0.1:57035] Open
+2016-05-07 01:22:27,761 INFO     Session 1462558910 [2 - tcp4:127.0.0.1:57035] Received sensitive information.
+2016-05-07 01:22:28,198 INFO     Session 1462558910 [2 - tcp4:127.0.0.1:57035] Login as faisal2
+2016-05-07 01:22:28,198 INFO     Session 1462558910 [2 - tcp4:127.0.0.1:57035] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 01:22:28,198 INFO     Session 1462558910 [2 - tcp4:127.0.0.1:57035] Starting rent...
+2016-05-07 01:22:28,354 INFO     Session 1462558910 [2 - tcp4:127.0.0.1:57035] Rent started!
+2016-05-07 01:22:28,355 INFO     Session 1462558910 [2 - tcp4:127.0.0.1:57035] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 01:22:28,355 INFO     Session 1462558910 [2 - tcp4:127.0.0.1:57035] Requesting rent.
+2016-05-07 01:22:55,467 INFO     Session 1462558910 [2 - tcp4:127.0.0.1:57035] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 01:23:16,144 INFO     Session 1462558910 [3 - tcp4:127.0.0.1:57061] Connection
+2016-05-07 01:23:16,145 INFO     Session 1462558910 [3 - tcp4:127.0.0.1:57061] Open
+2016-05-07 01:23:16,165 INFO     Session 1462558910 [3 - tcp4:127.0.0.1:57061] Received sensitive information.
+2016-05-07 01:23:16,592 INFO     Session 1462558910 [3 - tcp4:127.0.0.1:57061] Login as faisal
+2016-05-07 01:23:16,592 INFO     Session 1462558910 [3 - tcp4:127.0.0.1:57061] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-07 01:23:16,592 INFO     Session 1462558910 [3 - tcp4:127.0.0.1:57061] Stopping rent...
+2016-05-07 01:23:16,909 INFO     Session 1462558910 [3 - tcp4:127.0.0.1:57061] Rent stopped!
+2016-05-07 01:23:16,910 INFO     Session 1462558910 [3 - tcp4:127.0.0.1:57061] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 01:23:16,910 INFO     Session 1462558910 [3 - tcp4:127.0.0.1:57061] Requesting rent.
+2016-05-07 01:57:57,046 INFO     Session 1462558910 [3 - tcp4:127.0.0.1:57061] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 01:58:14,026 INFO     Session 1462558910 [4 - tcp4:127.0.0.1:58147] Connection
+2016-05-07 01:58:14,027 INFO     Session 1462558910 [4 - tcp4:127.0.0.1:58147] Open
+2016-05-07 01:58:14,047 INFO     Session 1462558910 [4 - tcp4:127.0.0.1:58147] Received sensitive information.
+2016-05-07 01:58:14,483 INFO     Session 1462558910 [4 - tcp4:127.0.0.1:58147] Login as faisal
+2016-05-07 01:58:14,484 INFO     Session 1462558910 [4 - tcp4:127.0.0.1:58147] Message - b'{"note":"Masa","command":"get_rent","client_id":1}'
+2016-05-07 01:58:14,484 INFO     Session 1462558910 [4 - tcp4:127.0.0.1:58147] Requesting rent.
+2016-05-07 01:58:25,086 INFO     Session 1462558910 [4 - tcp4:127.0.0.1:58147] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 01:58:31,306 INFO     Session 1462558910 [5 - tcp4:127.0.0.1:58158] Connection
+2016-05-07 01:58:31,307 INFO     Session 1462558910 [5 - tcp4:127.0.0.1:58158] Open
+2016-05-07 01:58:31,327 INFO     Session 1462558910 [5 - tcp4:127.0.0.1:58158] Received sensitive information.
+2016-05-07 01:58:31,763 INFO     Session 1462558910 [5 - tcp4:127.0.0.1:58158] Login as faisal
+2016-05-07 01:58:31,764 INFO     Session 1462558910 [5 - tcp4:127.0.0.1:58158] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 01:58:31,764 INFO     Session 1462558910 [5 - tcp4:127.0.0.1:58158] Requesting rent.
+2016-05-07 01:58:35,341 INFO     Session 1462558910 [5 - tcp4:127.0.0.1:58158] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 02:02:29,656 INFO     Session 1462558910 [6 - tcp4:127.0.0.1:58300] Connection
+2016-05-07 02:02:29,658 INFO     Session 1462558910 [6 - tcp4:127.0.0.1:58300] Open
+2016-05-07 02:02:29,679 INFO     Session 1462558910 [6 - tcp4:127.0.0.1:58300] Received sensitive information.
+2016-05-07 02:02:30,122 INFO     Session 1462558910 [6 - tcp4:127.0.0.1:58300] Login as faisal
+2016-05-07 02:02:30,123 INFO     Session 1462558910 [6 - tcp4:127.0.0.1:58300] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 02:02:30,123 INFO     Session 1462558910 [6 - tcp4:127.0.0.1:58300] Starting rent...
+2016-05-07 02:02:30,319 INFO     Session 1462558910 [6 - tcp4:127.0.0.1:58300] Rent started!
+2016-05-07 02:02:30,319 INFO     Session 1462558910 [6 - tcp4:127.0.0.1:58300] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 02:02:30,320 INFO     Session 1462558910 [6 - tcp4:127.0.0.1:58300] Requesting rent.
+2016-05-07 02:02:35,074 INFO     Session 1462558910 [6 - tcp4:127.0.0.1:58300] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 02:03:06,244 INFO     Session 1462558910 [7 - tcp4:127.0.0.1:58321] Connection
+2016-05-07 02:03:06,245 INFO     Session 1462558910 [7 - tcp4:127.0.0.1:58321] Open
+2016-05-07 02:03:06,266 INFO     Session 1462558910 [7 - tcp4:127.0.0.1:58321] Received sensitive information.
+2016-05-07 02:03:06,699 INFO     Session 1462558910 [7 - tcp4:127.0.0.1:58321] Login as faisal
+2016-05-07 02:03:06,699 INFO     Session 1462558910 [7 - tcp4:127.0.0.1:58321] Message - b'{"rent_id":1,"command":"void_rent"}'
+2016-05-07 02:03:06,700 INFO     Session 1462558910 [7 - tcp4:127.0.0.1:58321] Voidding rent...
+2016-05-07 02:03:06,982 INFO     Session 1462558910 [7 - tcp4:127.0.0.1:58321] Rent voided!
+2016-05-07 02:03:06,982 INFO     Session 1462558910 [7 - tcp4:127.0.0.1:58321] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 02:03:06,983 INFO     Session 1462558910 [7 - tcp4:127.0.0.1:58321] Requesting rent.
+2016-05-07 02:03:21,190 INFO     Session 1462558910 [7 - tcp4:127.0.0.1:58321] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 02:03:27,756 INFO     Session 1462558910 [8 - tcp4:127.0.0.1:58334] Connection
+2016-05-07 02:03:27,756 INFO     Session 1462558910 [8 - tcp4:127.0.0.1:58334] Open
+2016-05-07 02:03:27,778 INFO     Session 1462558910 [8 - tcp4:127.0.0.1:58334] Message - b'{"rent_id":1,"command":"void_rent"}'
+2016-05-07 02:03:27,779 INFO     Session 1462558910 [8 - tcp4:127.0.0.1:58334] Unable to give verification and is kicked.
+2016-05-07 02:03:27,779 INFO     Session 1462558910 [8 - tcp4:127.0.0.1:58334] Message - b'{"note":null,"command":"get_rent","client_id":1}'
+2016-05-07 02:03:27,779 INFO     Session 1462558910 [8 - tcp4:127.0.0.1:58334] Unable to give verification and is kicked.
+2016-05-07 02:03:27,782 INFO     Session 1462558910 [8 - tcp4:127.0.0.1:58334] Close - 1000:Unable to give identification!
+2016-05-07 02:16:39,902 INFO     Session 1462558910 [9 - tcp4:127.0.0.1:58752] Connection
+2016-05-07 02:16:39,903 INFO     Session 1462558910 [9 - tcp4:127.0.0.1:58752] Open
+2016-05-07 02:16:39,925 INFO     Session 1462558910 [9 - tcp4:127.0.0.1:58752] Received sensitive information.
+2016-05-07 02:16:40,365 INFO     Session 1462558910 [9 - tcp4:127.0.0.1:58752] Login as faisal
+2016-05-07 02:16:40,366 INFO     Session 1462558910 [9 - tcp4:127.0.0.1:58752] Message - b'{"from":"2014-09-14 02:16:39","to":"2020-09-14 02:16:39","command":"get_history"}'
+2016-05-07 02:16:40,366 INFO     Session 1462558910 [9 - tcp4:127.0.0.1:58752] Stopping rent...
+2016-05-07 02:16:40,376 INFO     Session 1462558910 [9 - tcp4:127.0.0.1:58752] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 02:18:07,854 INFO     Session 1462562281 [1 - tcp4:127.0.0.1:58805] Connection
+2016-05-07 02:18:07,855 INFO     Session 1462562281 [1 - tcp4:127.0.0.1:58805] Open
+2016-05-07 02:18:07,877 INFO     Session 1462562281 [1 - tcp4:127.0.0.1:58805] Received sensitive information.
+2016-05-07 02:18:08,647 INFO     Session 1462562281 [1 - tcp4:127.0.0.1:58805] Login as faisal
+2016-05-07 02:18:08,647 INFO     Session 1462562281 [1 - tcp4:127.0.0.1:58805] Message - b'{"from":"2014-09-14 02:18:07","to":"2020-09-14 02:18:07","command":"get_history"}'
+2016-05-07 02:18:08,647 INFO     Session 1462562281 [1 - tcp4:127.0.0.1:58805] Unidentified command - get_history
+2016-05-07 02:18:43,187 INFO     Session 1462562281 [1 - tcp4:127.0.0.1:58805] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 02:19:31,223 INFO     Session 1462562281 [2 - tcp4:127.0.0.1:58858] Connection
+2016-05-07 02:19:31,224 INFO     Session 1462562281 [2 - tcp4:127.0.0.1:58858] Open
+2016-05-07 02:19:31,247 INFO     Session 1462562281 [2 - tcp4:127.0.0.1:58858] Received sensitive information.
+2016-05-07 02:19:31,775 INFO     Session 1462562281 [2 - tcp4:127.0.0.1:58858] Login as faisal
+2016-05-07 02:19:31,776 INFO     Session 1462562281 [2 - tcp4:127.0.0.1:58858] Message - b'{"from":"2014-09-14 02:19:31","to":"2020-09-14 02:19:31","command":"get_history_summary"}'
+2016-05-07 02:19:31,776 INFO     Session 1462562281 [2 - tcp4:127.0.0.1:58858] Requesting history summary.
+2016-05-07 02:19:31,785 INFO     Session 1462562281 [2 - tcp4:127.0.0.1:58858] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 02:20:10,116 INFO     Session 1462562400 [1 - tcp4:127.0.0.1:58882] Connection
+2016-05-07 02:20:10,117 INFO     Session 1462562400 [1 - tcp4:127.0.0.1:58882] Open
+2016-05-07 02:20:10,137 INFO     Session 1462562400 [1 - tcp4:127.0.0.1:58882] Received sensitive information.
+2016-05-07 02:20:10,571 INFO     Session 1462562400 [1 - tcp4:127.0.0.1:58882] Login as faisal
+2016-05-07 02:20:10,572 INFO     Session 1462562400 [1 - tcp4:127.0.0.1:58882] Message - b'{"from":"2014-09-14 02:20:10","to":"2020-09-14 02:20:10","command":"get_history_summary"}'
+2016-05-07 02:20:10,572 INFO     Session 1462562400 [1 - tcp4:127.0.0.1:58882] Requesting history summary.
+2016-05-07 02:20:35,722 INFO     Session 1462562400 [1 - tcp4:127.0.0.1:58882] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 02:20:49,949 INFO     Session 1462562400 [2 - tcp4:127.0.0.1:58908] Connection
+2016-05-07 02:20:49,950 INFO     Session 1462562400 [2 - tcp4:127.0.0.1:58908] Open
+2016-05-07 02:20:49,971 INFO     Session 1462562400 [2 - tcp4:127.0.0.1:58908] Received sensitive information.
+2016-05-07 02:20:50,408 INFO     Session 1462562400 [2 - tcp4:127.0.0.1:58908] Login as faisal
+2016-05-07 02:20:50,408 INFO     Session 1462562400 [2 - tcp4:127.0.0.1:58908] Message - b'{"from":"2014-09-14 02:20:49","to":"2015-09-14 02:20:49","command":"get_history_summary"}'
+2016-05-07 02:20:50,409 INFO     Session 1462562400 [2 - tcp4:127.0.0.1:58908] Requesting history summary.
+2016-05-07 02:22:15,725 INFO     Session 1462562400 [2 - tcp4:127.0.0.1:58908] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 02:23:00,820 INFO     Session 1462562400 [3 - tcp4:127.0.0.1:58973] Connection
+2016-05-07 02:23:00,822 INFO     Session 1462562400 [3 - tcp4:127.0.0.1:58973] Open
+2016-05-07 02:23:00,844 INFO     Session 1462562400 [3 - tcp4:127.0.0.1:58973] Received sensitive information.
+2016-05-07 02:23:01,284 INFO     Session 1462562400 [3 - tcp4:127.0.0.1:58973] Login as faisal
+2016-05-07 02:23:01,285 INFO     Session 1462562400 [3 - tcp4:127.0.0.1:58973] Message - b'{"from":"2014-09-14 02:23:00","to":"2020-09-14 02:23:00","command":"get_rent_summary"}'
+2016-05-07 02:23:01,285 INFO     Session 1462562400 [3 - tcp4:127.0.0.1:58973] Requesting rent summary.
+2016-05-07 02:23:05,507 INFO     Session 1462562400 [3 - tcp4:127.0.0.1:58973] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 02:23:12,127 INFO     Session 1462562400 [4 - tcp4:127.0.0.1:58983] Connection
+2016-05-07 02:23:12,128 INFO     Session 1462562400 [4 - tcp4:127.0.0.1:58983] Open
+2016-05-07 02:23:12,150 INFO     Session 1462562400 [4 - tcp4:127.0.0.1:58983] Received sensitive information.
+2016-05-07 02:23:12,583 INFO     Session 1462562400 [4 - tcp4:127.0.0.1:58983] Login as faisal
+2016-05-07 02:23:12,583 INFO     Session 1462562400 [4 - tcp4:127.0.0.1:58983] Message - b'{"from":"2014-09-14 02:23:12","to":"2020-09-14 02:23:12","command":"get_history_summary"}'
+2016-05-07 02:23:12,583 INFO     Session 1462562400 [4 - tcp4:127.0.0.1:58983] Requesting history summary.
+2016-05-07 02:23:12,584 INFO     Session 1462562400 [4 - tcp4:127.0.0.1:58983] Message - b'{"from":"2014-09-14 02:23:12","to":"2020-09-14 02:23:12","command":"get_rent_summary"}'
+2016-05-07 02:23:12,584 INFO     Session 1462562400 [4 - tcp4:127.0.0.1:58983] Requesting rent summary.
+2016-05-07 02:36:01,495 INFO     Session 1462562400 [4 - tcp4:127.0.0.1:58983] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 02:56:26,948 INFO     Session 1462564579 [1 - tcp4:127.0.0.1:60165] Connection
+2016-05-07 02:56:26,949 INFO     Session 1462564579 [1 - tcp4:127.0.0.1:60165] Open
+2016-05-07 02:56:26,971 INFO     Session 1462564579 [1 - tcp4:127.0.0.1:60165] Received sensitive information.
+2016-05-07 02:56:27,394 INFO     Session 1462564579 [1 - tcp4:127.0.0.1:60165] Login as faisal
+2016-05-07 02:56:27,394 INFO     Session 1462564579 [1 - tcp4:127.0.0.1:60165] Message - b'{"from":"2014-09-14 02:56:26","to":"2020-09-14 02:56:26","command":"get_history_summary"}'
+2016-05-07 02:56:27,394 INFO     Session 1462564579 [1 - tcp4:127.0.0.1:60165] Requesting history summary.
+2016-05-07 02:56:27,395 INFO     Session 1462564579 [1 - tcp4:127.0.0.1:60165] Message - b'{"from":"2014-09-14 02:56:26","to":"2020-09-14 02:56:26","command":"get_rent_summary"}'
+2016-05-07 02:56:27,395 INFO     Session 1462564579 [1 - tcp4:127.0.0.1:60165] Requesting rent summary.
+2016-05-07 02:56:36,071 INFO     Session 1462564579 [1 - tcp4:127.0.0.1:60165] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 03:01:55,720 INFO     Session 1462564905 [1 - tcp4:127.0.0.1:60322] Connection
+2016-05-07 03:01:55,720 INFO     Session 1462564905 [1 - tcp4:127.0.0.1:60322] Open
+2016-05-07 03:01:55,742 INFO     Session 1462564905 [1 - tcp4:127.0.0.1:60322] Received sensitive information.
+2016-05-07 03:01:56,166 INFO     Session 1462564905 [1 - tcp4:127.0.0.1:60322] Login as faisal
+2016-05-07 03:01:56,167 INFO     Session 1462564905 [1 - tcp4:127.0.0.1:60322] Message - b'{"from":"2014-09-14 03:01:55","to":"2020-09-14 03:01:55","command":"get_history_summary"}'
+2016-05-07 03:01:56,167 INFO     Session 1462564905 [1 - tcp4:127.0.0.1:60322] Requesting history summary.
+2016-05-07 03:01:56,168 INFO     Session 1462564905 [1 - tcp4:127.0.0.1:60322] Message - b'{"from":"2014-09-14 03:01:55","to":"2020-09-14 03:01:55","command":"get_rent_summary"}'
+2016-05-07 03:01:56,168 INFO     Session 1462564905 [1 - tcp4:127.0.0.1:60322] Requesting rent summary.
+2016-05-07 03:02:39,760 INFO     Session 1462564905 [1 - tcp4:127.0.0.1:60322] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 03:04:37,475 INFO     Session 1462564905 [2 - tcp4:127.0.0.1:60403] Connection
+2016-05-07 03:04:37,477 INFO     Session 1462564905 [2 - tcp4:127.0.0.1:60403] Open
+2016-05-07 03:04:37,496 INFO     Session 1462564905 [2 - tcp4:127.0.0.1:60403] Received sensitive information.
+2016-05-07 03:04:37,921 INFO     Session 1462564905 [2 - tcp4:127.0.0.1:60403] Login as faisal
+2016-05-07 03:04:37,922 INFO     Session 1462564905 [2 - tcp4:127.0.0.1:60403] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:04:37,922 INFO     Session 1462564905 [2 - tcp4:127.0.0.1:60403] Starting rent...
+2016-05-07 03:04:38,722 INFO     Session 1462564905 [2 - tcp4:127.0.0.1:60403] Rent started!
+2016-05-07 03:04:38,723 INFO     Session 1462564905 [2 - tcp4:127.0.0.1:60403] Message - b'{"from":"2014-09-14 03:04:37","to":"2020-09-14 03:04:37","command":"get_history_summary"}'
+2016-05-07 03:04:38,723 INFO     Session 1462564905 [2 - tcp4:127.0.0.1:60403] Requesting history summary.
+2016-05-07 03:04:38,725 INFO     Session 1462564905 [2 - tcp4:127.0.0.1:60403] Message - b'{"from":"2014-09-14 03:04:37","to":"2020-09-14 03:04:37","command":"get_rent_summary"}'
+2016-05-07 03:04:38,725 INFO     Session 1462564905 [2 - tcp4:127.0.0.1:60403] Requesting rent summary.
+2016-05-07 03:05:13,118 INFO     Session 1462564905 [2 - tcp4:127.0.0.1:60403] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 03:06:45,139 INFO     Session 1462564905 [3 - tcp4:127.0.0.1:60478] Connection
+2016-05-07 03:06:45,140 INFO     Session 1462564905 [3 - tcp4:127.0.0.1:60478] Open
+2016-05-07 03:06:45,161 INFO     Session 1462564905 [3 - tcp4:127.0.0.1:60478] Received sensitive information.
+2016-05-07 03:06:45,593 INFO     Session 1462564905 [3 - tcp4:127.0.0.1:60478] Login as faisal
+2016-05-07 03:06:45,594 INFO     Session 1462564905 [3 - tcp4:127.0.0.1:60478] Message - b'{"from":"2014-09-14 03:06:45","to":"2020-09-14 03:06:45","command":"get_history_summary"}'
+2016-05-07 03:06:45,594 INFO     Session 1462564905 [3 - tcp4:127.0.0.1:60478] Requesting history summary.
+2016-05-07 03:06:45,594 INFO     Session 1462564905 [3 - tcp4:127.0.0.1:60478] Message - b'{"from":"2014-09-14 03:06:45","to":"2020-09-14 03:06:45","command":"get_rent_summary"}'
+2016-05-07 03:06:45,594 INFO     Session 1462564905 [3 - tcp4:127.0.0.1:60478] Requesting rent summary.
+2016-05-07 03:06:53,281 INFO     Session 1462564905 [3 - tcp4:127.0.0.1:60478] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 03:07:02,098 INFO     Session 1462564905 [4 - tcp4:127.0.0.1:60489] Connection
+2016-05-07 03:07:02,099 INFO     Session 1462564905 [4 - tcp4:127.0.0.1:60489] Open
+2016-05-07 03:07:02,121 INFO     Session 1462564905 [4 - tcp4:127.0.0.1:60489] Received sensitive information.
+2016-05-07 03:07:02,544 INFO     Session 1462564905 [4 - tcp4:127.0.0.1:60489] Login as faisal
+2016-05-07 03:07:02,544 INFO     Session 1462564905 [4 - tcp4:127.0.0.1:60489] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-07 03:07:02,545 INFO     Session 1462564905 [4 - tcp4:127.0.0.1:60489] Stopping rent...
+2016-05-07 03:07:02,777 INFO     Session 1462564905 [4 - tcp4:127.0.0.1:60489] Rent stopped!
+2016-05-07 03:07:02,778 INFO     Session 1462564905 [4 - tcp4:127.0.0.1:60489] Message - b'{"from":"2014-09-14 03:07:02","to":"2020-09-14 03:07:02","command":"get_history_summary"}'
+2016-05-07 03:07:02,778 INFO     Session 1462564905 [4 - tcp4:127.0.0.1:60489] Requesting history summary.
+2016-05-07 03:07:02,779 INFO     Session 1462564905 [4 - tcp4:127.0.0.1:60489] Message - b'{"from":"2014-09-14 03:07:02","to":"2020-09-14 03:07:02","command":"get_rent_summary"}'
+2016-05-07 03:07:02,779 INFO     Session 1462564905 [4 - tcp4:127.0.0.1:60489] Requesting rent summary.
+2016-05-07 03:07:23,225 INFO     Session 1462564905 [4 - tcp4:127.0.0.1:60489] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 03:14:33,537 INFO     Session 1462565652 [1 - tcp4:127.0.0.1:60815] Connection
+2016-05-07 03:14:33,538 INFO     Session 1462565652 [1 - tcp4:127.0.0.1:60815] Open
+2016-05-07 03:14:33,559 INFO     Session 1462565652 [1 - tcp4:127.0.0.1:60815] Received sensitive information.
+2016-05-07 03:14:33,987 INFO     Session 1462565652 [1 - tcp4:127.0.0.1:60815] Login as faisal
+2016-05-07 03:14:33,987 INFO     Session 1462565652 [1 - tcp4:127.0.0.1:60815] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:14:33,988 INFO     Session 1462565652 [1 - tcp4:127.0.0.1:60815] Starting rent...
+2016-05-07 03:14:34,126 INFO     Session 1462565652 [1 - tcp4:127.0.0.1:60815] Rent started!
+2016-05-07 03:14:34,126 INFO     Session 1462565652 [1 - tcp4:127.0.0.1:60815] Message - b'{"from":"2014-09-14 03:14:33","to":"2020-09-14 03:14:33","command":"get_history_summary"}'
+2016-05-07 03:14:34,127 INFO     Session 1462565652 [1 - tcp4:127.0.0.1:60815] Requesting history summary.
+2016-05-07 03:14:34,127 INFO     Session 1462565652 [1 - tcp4:127.0.0.1:60815] Message - b'{"from":"2014-09-14 03:14:33","to":"2020-09-14 03:14:33","command":"get_rent_summary"}'
+2016-05-07 03:14:34,128 INFO     Session 1462565652 [1 - tcp4:127.0.0.1:60815] Requesting rent summary.
+2016-05-07 03:17:04,038 INFO     Session 1462565816 [1 - tcp4:127.0.0.1:60904] Connection
+2016-05-07 03:17:04,038 INFO     Session 1462565816 [1 - tcp4:127.0.0.1:60904] Open
+2016-05-07 03:17:04,060 INFO     Session 1462565816 [1 - tcp4:127.0.0.1:60904] Received sensitive information.
+2016-05-07 03:17:04,514 INFO     Session 1462565816 [1 - tcp4:127.0.0.1:60904] Login as faisal
+2016-05-07 03:17:04,515 INFO     Session 1462565816 [1 - tcp4:127.0.0.1:60904] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:17:04,515 INFO     Session 1462565816 [1 - tcp4:127.0.0.1:60904] Starting rent...
+2016-05-07 03:17:04,515 INFO     Session 1462565816 [1 - tcp4:127.0.0.1:60904] Fail to start!
+2016-05-07 03:17:04,515 INFO     Session 1462565816 [1 - tcp4:127.0.0.1:60904] Message - b'{"from":"2014-09-14 03:17:04","to":"2020-09-14 03:17:04","command":"get_history_summary"}'
+2016-05-07 03:17:04,515 INFO     Session 1462565816 [1 - tcp4:127.0.0.1:60904] Requesting history summary.
+2016-05-07 03:17:04,516 INFO     Session 1462565816 [1 - tcp4:127.0.0.1:60904] Message - b'{"from":"2014-09-14 03:17:04","to":"2020-09-14 03:17:04","command":"get_rent_summary"}'
+2016-05-07 03:17:04,516 INFO     Session 1462565816 [1 - tcp4:127.0.0.1:60904] Requesting rent summary.
+2016-05-07 03:21:21,765 INFO     Session 1462566075 [1 - tcp4:127.0.0.1:61166] Connection
+2016-05-07 03:21:21,767 INFO     Session 1462566075 [1 - tcp4:127.0.0.1:61166] Open
+2016-05-07 03:21:21,789 INFO     Session 1462566075 [1 - tcp4:127.0.0.1:61166] Received sensitive information.
+2016-05-07 03:21:22,223 INFO     Session 1462566075 [1 - tcp4:127.0.0.1:61166] Login as faisal
+2016-05-07 03:21:22,224 INFO     Session 1462566075 [1 - tcp4:127.0.0.1:61166] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:21:22,224 INFO     Session 1462566075 [1 - tcp4:127.0.0.1:61166] Starting rent...
+2016-05-07 03:21:22,224 INFO     Session 1462566075 [1 - tcp4:127.0.0.1:61166] Fail to start!
+2016-05-07 03:21:22,224 INFO     Session 1462566075 [1 - tcp4:127.0.0.1:61166] Message - b'{"from":"2014-09-14 03:21:21","to":"2020-09-14 03:21:21","command":"get_history_summary"}'
+2016-05-07 03:21:22,224 INFO     Session 1462566075 [1 - tcp4:127.0.0.1:61166] Requesting history summary.
+2016-05-07 03:21:22,224 INFO     Session 1462566075 [1 - tcp4:127.0.0.1:61166] Message - b'{"from":"2014-09-14 03:21:21","to":"2020-09-14 03:21:21","command":"get_rent_summary"}'
+2016-05-07 03:21:22,225 INFO     Session 1462566075 [1 - tcp4:127.0.0.1:61166] Requesting rent summary.
+2016-05-07 03:24:01,515 INFO     Session 1462566233 [1 - tcp4:127.0.0.1:61281] Connection
+2016-05-07 03:24:01,516 INFO     Session 1462566233 [1 - tcp4:127.0.0.1:61281] Open
+2016-05-07 03:24:01,536 INFO     Session 1462566233 [1 - tcp4:127.0.0.1:61281] Received sensitive information.
+2016-05-07 03:24:01,963 INFO     Session 1462566233 [1 - tcp4:127.0.0.1:61281] Login as faisal
+2016-05-07 03:24:01,963 INFO     Session 1462566233 [1 - tcp4:127.0.0.1:61281] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:24:01,963 INFO     Session 1462566233 [1 - tcp4:127.0.0.1:61281] Starting rent...
+2016-05-07 03:24:01,964 INFO     Session 1462566233 [1 - tcp4:127.0.0.1:61281] Fail to start!
+2016-05-07 03:24:01,964 INFO     Session 1462566233 [1 - tcp4:127.0.0.1:61281] Message - b'{"from":"2014-09-14 03:24:01","to":"2020-09-14 03:24:01","command":"get_history_summary"}'
+2016-05-07 03:24:01,964 INFO     Session 1462566233 [1 - tcp4:127.0.0.1:61281] Requesting history summary.
+2016-05-07 03:24:01,964 INFO     Session 1462566233 [1 - tcp4:127.0.0.1:61281] Message - b'{"from":"2014-09-14 03:24:01","to":"2020-09-14 03:24:01","command":"get_rent_summary"}'
+2016-05-07 03:24:01,965 INFO     Session 1462566233 [1 - tcp4:127.0.0.1:61281] Requesting rent summary.
+2016-05-07 03:25:09,515 INFO     Session 1462566303 [1 - tcp4:127.0.0.1:61350] Connection
+2016-05-07 03:25:09,516 INFO     Session 1462566303 [1 - tcp4:127.0.0.1:61350] Open
+2016-05-07 03:25:09,536 INFO     Session 1462566303 [1 - tcp4:127.0.0.1:61350] Received sensitive information.
+2016-05-07 03:25:09,960 INFO     Session 1462566303 [1 - tcp4:127.0.0.1:61350] Login as faisal
+2016-05-07 03:25:09,961 INFO     Session 1462566303 [1 - tcp4:127.0.0.1:61350] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:25:09,961 INFO     Session 1462566303 [1 - tcp4:127.0.0.1:61350] Starting rent...
+2016-05-07 03:25:09,961 INFO     Session 1462566303 [1 - tcp4:127.0.0.1:61350] Fail to start!
+2016-05-07 03:25:09,961 INFO     Session 1462566303 [1 - tcp4:127.0.0.1:61350] Message - b'{"from":"2014-09-14 03:25:09","to":"2020-09-14 03:25:09","command":"get_history_summary"}'
+2016-05-07 03:25:09,961 INFO     Session 1462566303 [1 - tcp4:127.0.0.1:61350] Requesting history summary.
+2016-05-07 03:25:09,962 INFO     Session 1462566303 [1 - tcp4:127.0.0.1:61350] Message - b'{"from":"2014-09-14 03:25:09","to":"2020-09-14 03:25:09","command":"get_rent_summary"}'
+2016-05-07 03:25:09,962 INFO     Session 1462566303 [1 - tcp4:127.0.0.1:61350] Requesting rent summary.
+2016-05-07 03:27:10,694 INFO     Session 1462566423 [1 - tcp4:127.0.0.1:61413] Connection
+2016-05-07 03:27:10,695 INFO     Session 1462566423 [1 - tcp4:127.0.0.1:61413] Open
+2016-05-07 03:27:10,722 INFO     Session 1462566423 [1 - tcp4:127.0.0.1:61413] Received sensitive information.
+2016-05-07 03:27:11,147 INFO     Session 1462566423 [1 - tcp4:127.0.0.1:61413] Login as faisal
+2016-05-07 03:27:11,147 INFO     Session 1462566423 [1 - tcp4:127.0.0.1:61413] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:27:11,147 INFO     Session 1462566423 [1 - tcp4:127.0.0.1:61413] Starting rent...
+2016-05-07 03:27:11,148 INFO     Session 1462566423 [1 - tcp4:127.0.0.1:61413] Fail to start!
+2016-05-07 03:27:11,148 INFO     Session 1462566423 [1 - tcp4:127.0.0.1:61413] Message - b'{"from":"2014-09-14 03:27:10","to":"2020-09-14 03:27:10","command":"get_history_summary"}'
+2016-05-07 03:27:11,148 INFO     Session 1462566423 [1 - tcp4:127.0.0.1:61413] Requesting history summary.
+2016-05-07 03:27:11,149 INFO     Session 1462566423 [1 - tcp4:127.0.0.1:61413] Message - b'{"from":"2014-09-14 03:27:10","to":"2020-09-14 03:27:10","command":"get_rent_summary"}'
+2016-05-07 03:27:11,149 INFO     Session 1462566423 [1 - tcp4:127.0.0.1:61413] Requesting rent summary.
+2016-05-07 03:28:44,806 INFO     Session 1462566515 [1 - tcp4:127.0.0.1:61461] Connection
+2016-05-07 03:28:44,807 INFO     Session 1462566515 [1 - tcp4:127.0.0.1:61461] Open
+2016-05-07 03:28:44,827 INFO     Session 1462566515 [1 - tcp4:127.0.0.1:61461] Received sensitive information.
+2016-05-07 03:28:45,255 INFO     Session 1462566515 [1 - tcp4:127.0.0.1:61461] Login as faisal
+2016-05-07 03:28:45,255 INFO     Session 1462566515 [1 - tcp4:127.0.0.1:61461] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:28:45,256 INFO     Session 1462566515 [1 - tcp4:127.0.0.1:61461] Starting rent...
+2016-05-07 03:28:45,256 INFO     Session 1462566515 [1 - tcp4:127.0.0.1:61461] Fail to start!
+2016-05-07 03:28:45,256 INFO     Session 1462566515 [1 - tcp4:127.0.0.1:61461] Message - b'{"from":"2014-09-14 03:28:44","to":"2020-09-14 03:28:44","command":"get_history_summary"}'
+2016-05-07 03:28:45,256 INFO     Session 1462566515 [1 - tcp4:127.0.0.1:61461] Requesting history summary.
+2016-05-07 03:28:45,256 INFO     Session 1462566515 [1 - tcp4:127.0.0.1:61461] Message - b'{"from":"2014-09-14 03:28:44","to":"2020-09-14 03:28:44","command":"get_rent_summary"}'
+2016-05-07 03:28:45,257 INFO     Session 1462566515 [1 - tcp4:127.0.0.1:61461] Requesting rent summary.
+2016-05-07 03:30:24,717 INFO     Session 1462566618 [1 - tcp4:127.0.0.1:61532] Connection
+2016-05-07 03:30:24,718 INFO     Session 1462566618 [1 - tcp4:127.0.0.1:61532] Open
+2016-05-07 03:30:24,740 INFO     Session 1462566618 [1 - tcp4:127.0.0.1:61532] Received sensitive information.
+2016-05-07 03:30:25,166 INFO     Session 1462566618 [1 - tcp4:127.0.0.1:61532] Login as faisal
+2016-05-07 03:30:25,167 INFO     Session 1462566618 [1 - tcp4:127.0.0.1:61532] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:30:25,167 INFO     Session 1462566618 [1 - tcp4:127.0.0.1:61532] Starting rent...
+2016-05-07 03:30:25,167 INFO     Session 1462566618 [1 - tcp4:127.0.0.1:61532] Fail to start!
+2016-05-07 03:30:25,167 INFO     Session 1462566618 [1 - tcp4:127.0.0.1:61532] Message - b'{"from":"2014-09-14 03:30:24","to":"2020-09-14 03:30:24","command":"get_history_summary"}'
+2016-05-07 03:30:25,168 INFO     Session 1462566618 [1 - tcp4:127.0.0.1:61532] Requesting history summary.
+2016-05-07 03:30:25,168 INFO     Session 1462566618 [1 - tcp4:127.0.0.1:61532] Message - b'{"from":"2014-09-14 03:30:24","to":"2020-09-14 03:30:24","command":"get_rent_summary"}'
+2016-05-07 03:30:25,168 INFO     Session 1462566618 [1 - tcp4:127.0.0.1:61532] Requesting rent summary.
+2016-05-07 03:30:46,449 INFO     Session 1462566640 [1 - tcp4:127.0.0.1:61548] Connection
+2016-05-07 03:30:46,450 INFO     Session 1462566640 [1 - tcp4:127.0.0.1:61548] Open
+2016-05-07 03:30:46,472 INFO     Session 1462566640 [1 - tcp4:127.0.0.1:61548] Received sensitive information.
+2016-05-07 03:30:46,897 INFO     Session 1462566640 [1 - tcp4:127.0.0.1:61548] Login as faisal
+2016-05-07 03:30:46,898 INFO     Session 1462566640 [1 - tcp4:127.0.0.1:61548] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:30:46,898 INFO     Session 1462566640 [1 - tcp4:127.0.0.1:61548] Starting rent...
+2016-05-07 03:30:46,898 INFO     Session 1462566640 [1 - tcp4:127.0.0.1:61548] Fail to start!
+2016-05-07 03:30:46,898 INFO     Session 1462566640 [1 - tcp4:127.0.0.1:61548] Message - b'{"from":"2014-09-14 03:30:46","to":"2020-09-14 03:30:46","command":"get_history_summary"}'
+2016-05-07 03:30:46,898 INFO     Session 1462566640 [1 - tcp4:127.0.0.1:61548] Requesting history summary.
+2016-05-07 03:30:46,899 INFO     Session 1462566640 [1 - tcp4:127.0.0.1:61548] Message - b'{"from":"2014-09-14 03:30:46","to":"2020-09-14 03:30:46","command":"get_rent_summary"}'
+2016-05-07 03:30:46,899 INFO     Session 1462566640 [1 - tcp4:127.0.0.1:61548] Requesting rent summary.
+2016-05-07 03:32:15,734 INFO     Session 1462566727 [1 - tcp4:127.0.0.1:61624] Connection
+2016-05-07 03:32:15,735 INFO     Session 1462566727 [1 - tcp4:127.0.0.1:61624] Open
+2016-05-07 03:32:15,758 INFO     Session 1462566727 [1 - tcp4:127.0.0.1:61624] Received sensitive information.
+2016-05-07 03:32:16,183 INFO     Session 1462566727 [1 - tcp4:127.0.0.1:61624] Login as faisal
+2016-05-07 03:32:16,184 INFO     Session 1462566727 [1 - tcp4:127.0.0.1:61624] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:32:16,184 INFO     Session 1462566727 [1 - tcp4:127.0.0.1:61624] Starting rent...
+2016-05-07 03:32:16,184 INFO     Session 1462566727 [1 - tcp4:127.0.0.1:61624] Fail to start!
+2016-05-07 03:32:16,184 INFO     Session 1462566727 [1 - tcp4:127.0.0.1:61624] Message - b'{"from":"2014-09-14 03:32:15","to":"2020-09-14 03:32:15","command":"get_history_summary"}'
+2016-05-07 03:32:16,184 INFO     Session 1462566727 [1 - tcp4:127.0.0.1:61624] Requesting history summary.
+2016-05-07 03:32:16,185 INFO     Session 1462566727 [1 - tcp4:127.0.0.1:61624] Message - b'{"from":"2014-09-14 03:32:15","to":"2020-09-14 03:32:15","command":"get_rent_summary"}'
+2016-05-07 03:32:16,185 INFO     Session 1462566727 [1 - tcp4:127.0.0.1:61624] Requesting rent summary.
+2016-05-07 03:34:01,032 INFO     Session 1462566835 [1 - tcp4:127.0.0.1:61686] Connection
+2016-05-07 03:34:01,033 INFO     Session 1462566835 [1 - tcp4:127.0.0.1:61686] Open
+2016-05-07 03:34:01,056 INFO     Session 1462566835 [1 - tcp4:127.0.0.1:61686] Received sensitive information.
+2016-05-07 03:34:01,485 INFO     Session 1462566835 [1 - tcp4:127.0.0.1:61686] Login as faisal
+2016-05-07 03:34:01,486 INFO     Session 1462566835 [1 - tcp4:127.0.0.1:61686] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:34:01,486 INFO     Session 1462566835 [1 - tcp4:127.0.0.1:61686] Starting rent...
+2016-05-07 03:34:01,486 INFO     Session 1462566835 [1 - tcp4:127.0.0.1:61686] Fail to start!
+2016-05-07 03:34:01,487 INFO     Session 1462566835 [1 - tcp4:127.0.0.1:61686] Message - b'{"from":"2014-09-14 03:34:01","to":"2020-09-14 03:34:01","command":"get_history_summary"}'
+2016-05-07 03:34:01,487 INFO     Session 1462566835 [1 - tcp4:127.0.0.1:61686] Requesting history summary.
+2016-05-07 03:34:01,487 INFO     Session 1462566835 [1 - tcp4:127.0.0.1:61686] Message - b'{"from":"2014-09-14 03:34:01","to":"2020-09-14 03:34:01","command":"get_rent_summary"}'
+2016-05-07 03:34:01,487 INFO     Session 1462566835 [1 - tcp4:127.0.0.1:61686] Requesting rent summary.
+2016-05-07 03:34:21,413 INFO     Session 1462566835 [1 - tcp4:127.0.0.1:61686] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 03:34:40,092 INFO     Session 1462566873 [1 - tcp4:127.0.0.1:61712] Connection
+2016-05-07 03:34:40,093 INFO     Session 1462566873 [1 - tcp4:127.0.0.1:61712] Open
+2016-05-07 03:34:40,121 INFO     Session 1462566873 [1 - tcp4:127.0.0.1:61712] Received sensitive information.
+2016-05-07 03:34:40,575 INFO     Session 1462566873 [1 - tcp4:127.0.0.1:61712] Login as faisal
+2016-05-07 03:34:40,576 INFO     Session 1462566873 [1 - tcp4:127.0.0.1:61712] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:34:40,576 INFO     Session 1462566873 [1 - tcp4:127.0.0.1:61712] Starting rent...
+2016-05-07 03:34:40,576 INFO     Session 1462566873 [1 - tcp4:127.0.0.1:61712] Fail to start!
+2016-05-07 03:34:40,576 INFO     Session 1462566873 [1 - tcp4:127.0.0.1:61712] Message - b'{"from":"2014-09-14 03:34:40","to":"2020-09-14 03:34:40","command":"get_history_summary"}'
+2016-05-07 03:34:40,576 INFO     Session 1462566873 [1 - tcp4:127.0.0.1:61712] Requesting history summary.
+2016-05-07 03:34:40,577 INFO     Session 1462566873 [1 - tcp4:127.0.0.1:61712] Message - b'{"from":"2014-09-14 03:34:40","to":"2020-09-14 03:34:40","command":"get_rent_summary"}'
+2016-05-07 03:34:40,577 INFO     Session 1462566873 [1 - tcp4:127.0.0.1:61712] Requesting rent summary.
+2016-05-07 03:34:57,038 INFO     Session 1462566873 [1 - tcp4:127.0.0.1:61712] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 03:37:26,093 INFO     Session 1462567039 [1 - tcp4:127.0.0.1:61894] Connection
+2016-05-07 03:37:26,093 INFO     Session 1462567039 [1 - tcp4:127.0.0.1:61894] Open
+2016-05-07 03:37:26,113 INFO     Session 1462567039 [1 - tcp4:127.0.0.1:61894] Received sensitive information.
+2016-05-07 03:37:26,536 INFO     Session 1462567039 [1 - tcp4:127.0.0.1:61894] Login as faisal
+2016-05-07 03:37:26,536 INFO     Session 1462567039 [1 - tcp4:127.0.0.1:61894] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:37:26,536 INFO     Session 1462567039 [1 - tcp4:127.0.0.1:61894] Starting rent...
+2016-05-07 03:37:26,537 INFO     Session 1462567039 [1 - tcp4:127.0.0.1:61894] Fail to start!
+2016-05-07 03:37:26,537 INFO     Session 1462567039 [1 - tcp4:127.0.0.1:61894] Message - b'{"from":"2014-09-14 03:37:26","to":"2020-09-14 03:37:26","command":"get_history_summary"}'
+2016-05-07 03:37:26,537 INFO     Session 1462567039 [1 - tcp4:127.0.0.1:61894] Requesting history summary.
+2016-05-07 03:37:26,537 INFO     Session 1462567039 [1 - tcp4:127.0.0.1:61894] Message - b'{"from":"2014-09-14 03:37:26","to":"2020-09-14 03:37:26","command":"get_rent_summary"}'
+2016-05-07 03:37:26,537 INFO     Session 1462567039 [1 - tcp4:127.0.0.1:61894] Requesting rent summary.
+2016-05-07 03:39:15,371 INFO     Session 1462567148 [1 - tcp4:127.0.0.1:61948] Connection
+2016-05-07 03:39:15,372 INFO     Session 1462567148 [1 - tcp4:127.0.0.1:61948] Open
+2016-05-07 03:39:15,393 INFO     Session 1462567148 [1 - tcp4:127.0.0.1:61948] Received sensitive information.
+2016-05-07 03:39:15,822 INFO     Session 1462567148 [1 - tcp4:127.0.0.1:61948] Login as faisal
+2016-05-07 03:39:15,822 INFO     Session 1462567148 [1 - tcp4:127.0.0.1:61948] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:39:15,822 INFO     Session 1462567148 [1 - tcp4:127.0.0.1:61948] Starting rent...
+2016-05-07 03:39:15,822 INFO     Session 1462567148 [1 - tcp4:127.0.0.1:61948] Fail to start!
+2016-05-07 03:39:15,823 INFO     Session 1462567148 [1 - tcp4:127.0.0.1:61948] Message - b'{"from":"2014-09-14 03:39:15","to":"2020-09-14 03:39:15","command":"get_history_summary"}'
+2016-05-07 03:39:15,823 INFO     Session 1462567148 [1 - tcp4:127.0.0.1:61948] Requesting history summary.
+2016-05-07 03:39:15,823 INFO     Session 1462567148 [1 - tcp4:127.0.0.1:61948] Message - b'{"from":"2014-09-14 03:39:15","to":"2020-09-14 03:39:15","command":"get_rent_summary"}'
+2016-05-07 03:39:15,823 INFO     Session 1462567148 [1 - tcp4:127.0.0.1:61948] Requesting rent summary.
+2016-05-07 03:39:35,193 INFO     Session 1462567148 [1 - tcp4:127.0.0.1:61948] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 03:39:51,283 INFO     Session 1462567148 [2 - tcp4:127.0.0.1:61966] Connection
+2016-05-07 03:39:51,284 INFO     Session 1462567148 [2 - tcp4:127.0.0.1:61966] Open
+2016-05-07 03:39:51,305 INFO     Session 1462567148 [2 - tcp4:127.0.0.1:61966] Received sensitive information.
+2016-05-07 03:39:51,741 INFO     Session 1462567148 [2 - tcp4:127.0.0.1:61966] Login as faisal
+2016-05-07 03:39:51,741 INFO     Session 1462567148 [2 - tcp4:127.0.0.1:61966] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-07 03:39:51,742 INFO     Session 1462567148 [2 - tcp4:127.0.0.1:61966] Stopping rent...
+2016-05-07 03:39:51,969 INFO     Session 1462567148 [2 - tcp4:127.0.0.1:61966] Rent stopped!
+2016-05-07 03:39:51,969 INFO     Session 1462567148 [2 - tcp4:127.0.0.1:61966] Message - b'{"from":"2014-09-14 03:39:51","to":"2020-09-14 03:39:51","command":"get_history_summary"}'
+2016-05-07 03:39:51,969 INFO     Session 1462567148 [2 - tcp4:127.0.0.1:61966] Requesting history summary.
+2016-05-07 03:39:51,970 INFO     Session 1462567148 [2 - tcp4:127.0.0.1:61966] Message - b'{"from":"2014-09-14 03:39:51","to":"2020-09-14 03:39:51","command":"get_rent_summary"}'
+2016-05-07 03:39:51,970 INFO     Session 1462567148 [2 - tcp4:127.0.0.1:61966] Requesting rent summary.
+2016-05-07 03:40:17,407 INFO     Session 1462567148 [2 - tcp4:127.0.0.1:61966] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 03:40:29,330 INFO     Session 1462567148 [3 - tcp4:127.0.0.1:61988] Connection
+2016-05-07 03:40:29,331 INFO     Session 1462567148 [3 - tcp4:127.0.0.1:61988] Open
+2016-05-07 03:40:29,354 INFO     Session 1462567148 [3 - tcp4:127.0.0.1:61988] Received sensitive information.
+2016-05-07 03:40:29,786 INFO     Session 1462567148 [3 - tcp4:127.0.0.1:61988] Login as faisal
+2016-05-07 03:40:29,786 INFO     Session 1462567148 [3 - tcp4:127.0.0.1:61988] Message - b'{"rent_id":1,"command":"start_rent"}'
+2016-05-07 03:40:29,786 INFO     Session 1462567148 [3 - tcp4:127.0.0.1:61988] Starting rent...
+2016-05-07 03:40:29,930 INFO     Session 1462567148 [3 - tcp4:127.0.0.1:61988] Rent started!
+2016-05-07 03:40:29,932 INFO     Session 1462567148 [3 - tcp4:127.0.0.1:61988] Message - b'{"from":"2014-09-14 03:40:29","to":"2020-09-14 03:40:29","command":"get_history_summary"}'
+2016-05-07 03:40:29,932 INFO     Session 1462567148 [3 - tcp4:127.0.0.1:61988] Requesting history summary.
+2016-05-07 03:40:29,933 INFO     Session 1462567148 [3 - tcp4:127.0.0.1:61988] Message - b'{"from":"2014-09-14 03:40:29","to":"2020-09-14 03:40:29","command":"get_rent_summary"}'
+2016-05-07 03:40:29,933 INFO     Session 1462567148 [3 - tcp4:127.0.0.1:61988] Requesting rent summary.
+2016-05-07 03:49:20,928 INFO     Session 1462567148 [3 - tcp4:127.0.0.1:61988] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-07 03:49:27,922 INFO     Session 1462567148 [4 - tcp4:127.0.0.1:62306] Connection
+2016-05-07 03:49:27,923 INFO     Session 1462567148 [4 - tcp4:127.0.0.1:62306] Open
+2016-05-07 03:49:27,946 INFO     Session 1462567148 [4 - tcp4:127.0.0.1:62306] Received sensitive information.
+2016-05-07 03:49:28,376 INFO     Session 1462567148 [4 - tcp4:127.0.0.1:62306] Login as faisal
+2016-05-07 03:49:28,377 INFO     Session 1462567148 [4 - tcp4:127.0.0.1:62306] Message - b'{"rent_id":1,"command":"stop_rent"}'
+2016-05-07 03:49:28,377 INFO     Session 1462567148 [4 - tcp4:127.0.0.1:62306] Stopping rent...
+2016-05-07 03:49:29,219 INFO     Session 1462567148 [4 - tcp4:127.0.0.1:62306] Rent stopped!
+2016-05-07 03:49:29,220 INFO     Session 1462567148 [4 - tcp4:127.0.0.1:62306] Message - b'{"from":"2014-09-14 03:49:27","to":"2020-09-14 03:49:27","command":"get_history_summary"}'
+2016-05-07 03:49:29,221 INFO     Session 1462567148 [4 - tcp4:127.0.0.1:62306] Requesting history summary.
+2016-05-07 03:49:29,222 INFO     Session 1462567148 [4 - tcp4:127.0.0.1:62306] Message - b'{"from":"2014-09-14 03:49:27","to":"2020-09-14 03:49:27","command":"get_rent_summary"}'
+2016-05-07 03:49:29,222 INFO     Session 1462567148 [4 - tcp4:127.0.0.1:62306] Requesting rent summary.
+2016-05-07 03:49:54,201 INFO     Session 1462567148 [4 - tcp4:127.0.0.1:62306] Close - 1006:connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-16 23:10:03,007 INFO     Session 1463407937 [1 - tcp4:127.0.0.1:54113] Connection
+2016-05-16 23:10:03,062 INFO     Session 1463407937 [1 - tcp4:127.0.0.1:54113] Open
+2016-05-16 23:10:03,126 INFO     Session 1463407937 [1 - tcp4:127.0.0.1:54113] Received sensitive information.
+2016-05-16 23:10:03,141 INFO     Session 1463407937 [1 - tcp4:127.0.0.1:54113] Login failed.
+2016-05-16 23:10:03,146 INFO     Session 1463407937 [1 - tcp4:127.0.0.1:54113] Close - 1000:Incorrect login data!
+2016-05-16 23:10:15,388 INFO     Session 1463407937 [2 - tcp4:127.0.0.1:54118] Connection
+2016-05-16 23:10:15,389 INFO     Session 1463407937 [2 - tcp4:127.0.0.1:54118] Open
+2016-05-16 23:10:15,390 INFO     Session 1463407937 [2 - tcp4:127.0.0.1:54118] Received sensitive information.
+2016-05-16 23:10:15,391 INFO     Session 1463407937 [2 - tcp4:127.0.0.1:54118] Login failed.
+2016-05-16 23:10:15,392 INFO     Session 1463407937 [2 - tcp4:127.0.0.1:54118] Close - 1000:Incorrect login data!
+2016-05-16 23:10:15,949 INFO     Session 1463407937 [3 - tcp4:127.0.0.1:54123] Connection
+2016-05-16 23:10:15,949 INFO     Session 1463407937 [3 - tcp4:127.0.0.1:54123] Open
+2016-05-16 23:10:15,951 INFO     Session 1463407937 [3 - tcp4:127.0.0.1:54123] Received sensitive information.
+2016-05-16 23:10:15,951 INFO     Session 1463407937 [3 - tcp4:127.0.0.1:54123] Login failed.
+2016-05-16 23:10:15,953 INFO     Session 1463407937 [3 - tcp4:127.0.0.1:54123] Close - 1000:Incorrect login data!
+2016-05-16 23:10:57,078 INFO     Session 1463407937 [4 - tcp4:127.0.0.1:54133] Connection
+2016-05-16 23:10:57,079 INFO     Session 1463407937 [4 - tcp4:127.0.0.1:54133] Open
+2016-05-16 23:10:57,095 INFO     Session 1463407937 [4 - tcp4:127.0.0.1:54133] Received sensitive information.
+2016-05-16 23:10:57,095 INFO     Session 1463407937 [4 - tcp4:127.0.0.1:54133] Login failed.
+2016-05-16 23:10:57,097 INFO     Session 1463407937 [4 - tcp4:127.0.0.1:54133] Close - 1000:Incorrect login data!
+2016-05-16 23:10:57,259 INFO     Session 1463407937 [5 - tcp4:127.0.0.1:54138] Connection
+2016-05-16 23:10:57,260 INFO     Session 1463407937 [5 - tcp4:127.0.0.1:54138] Open
+2016-05-16 23:10:57,261 INFO     Session 1463407937 [5 - tcp4:127.0.0.1:54138] Received sensitive information.
+2016-05-16 23:10:57,262 INFO     Session 1463407937 [5 - tcp4:127.0.0.1:54138] Login failed.
+2016-05-16 23:10:57,263 INFO     Session 1463407937 [5 - tcp4:127.0.0.1:54138] Close - 1000:Incorrect login data!
+2016-05-16 23:11:01,119 INFO     Session 1463407937 [6 - tcp4:127.0.0.1:54144] Connection
+2016-05-16 23:11:01,120 INFO     Session 1463407937 [6 - tcp4:127.0.0.1:54144] Open
+2016-05-16 23:11:01,121 INFO     Session 1463407937 [6 - tcp4:127.0.0.1:54144] Received sensitive information.
+2016-05-16 23:11:01,122 INFO     Session 1463407937 [6 - tcp4:127.0.0.1:54144] Login failed.
+2016-05-16 23:11:01,123 INFO     Session 1463407937 [6 - tcp4:127.0.0.1:54144] Close - 1000:Incorrect login data!
+2016-05-16 23:11:01,968 INFO     Session 1463407937 [7 - tcp4:127.0.0.1:54149] Connection
+2016-05-16 23:11:01,969 INFO     Session 1463407937 [7 - tcp4:127.0.0.1:54149] Open
+2016-05-16 23:11:01,970 INFO     Session 1463407937 [7 - tcp4:127.0.0.1:54149] Received sensitive information.
+2016-05-16 23:11:01,971 INFO     Session 1463407937 [7 - tcp4:127.0.0.1:54149] Login failed.
+2016-05-16 23:11:01,972 INFO     Session 1463407937 [7 - tcp4:127.0.0.1:54149] Close - 1000:Incorrect login data!
+2016-05-16 23:12:14,066 INFO     Session 1463407937 [8 - tcp4:127.0.0.1:54157] Connection
+2016-05-16 23:12:14,067 INFO     Session 1463407937 [8 - tcp4:127.0.0.1:54157] Open
+2016-05-16 23:12:14,083 INFO     Session 1463407937 [8 - tcp4:127.0.0.1:54157] Received sensitive information.
+2016-05-16 23:12:14,083 INFO     Session 1463407937 [8 - tcp4:127.0.0.1:54157] Login failed.
+2016-05-16 23:12:14,085 INFO     Session 1463407937 [8 - tcp4:127.0.0.1:54157] Close - 1000:Incorrect login data!
+2016-05-16 23:22:36,473 INFO     Session 1463415753 [1 - tcp4:127.0.0.1:54220] Connection
+2016-05-16 23:22:36,474 INFO     Session 1463415753 [1 - tcp4:127.0.0.1:54220] Open
+2016-05-16 23:22:36,491 INFO     Session 1463415753 [1 - tcp4:127.0.0.1:54220] Received sensitive information.
+2016-05-16 23:22:36,491 INFO     Session 1463415753 [1 - tcp4:127.0.0.1:54220] Login failed.
+2016-05-16 23:22:36,497 INFO     Session 1463415753 [1 - tcp4:127.0.0.1:54220] Close - 1000:Incorrect login data!
+2016-05-17 14:23:31,307 INFO     Session 1463469803 [1 - tcp4:127.0.0.1:61344] Connection
+2016-05-17 14:23:31,329 INFO     Session 1463469803 [1 - tcp4:127.0.0.1:61344] Open
+2016-05-17 14:23:31,369 INFO     Session 1463469803 [1 - tcp4:127.0.0.1:61344] Received sensitive information.
+2016-05-17 14:23:31,391 INFO     Session 1463469803 [1 - tcp4:127.0.0.1:61344] Login failed.
+2016-05-17 14:23:31,400 INFO     Session 1463469803 [1 - tcp4:127.0.0.1:61344] Close - 1000:Incorrect login data!
+2016-05-17 14:23:38,258 INFO     Session 1463469803 [2 - tcp4:127.0.0.1:61349] Connection
+2016-05-17 14:23:38,258 INFO     Session 1463469803 [2 - tcp4:127.0.0.1:61349] Open
+2016-05-17 14:23:38,260 INFO     Session 1463469803 [2 - tcp4:127.0.0.1:61349] Received sensitive information.
+2016-05-17 14:23:38,725 INFO     Session 1463469803 [2 - tcp4:127.0.0.1:61349] Login as faisal
+2016-05-17 14:23:38,730 INFO     Session 1463469803 [2 - tcp4:127.0.0.1:61349] Close - 1001:Shutdown
+2016-05-17 14:25:19,784 INFO     Session 1463469803 [3 - tcp4:127.0.0.1:61398] Connection
+2016-05-17 14:25:19,785 INFO     Session 1463469803 [3 - tcp4:127.0.0.1:61398] Open
+2016-05-17 14:25:19,804 INFO     Session 1463469803 [3 - tcp4:127.0.0.1:61398] Received sensitive information.
+2016-05-17 14:25:20,242 INFO     Session 1463469803 [3 - tcp4:127.0.0.1:61398] Login failed.
+2016-05-17 14:25:20,249 INFO     Session 1463469803 [3 - tcp4:127.0.0.1:61398] Close - 1000:Incorrect login data!
+2016-05-17 14:25:24,641 INFO     Session 1463469803 [4 - tcp4:127.0.0.1:61403] Connection
+2016-05-17 14:25:24,642 INFO     Session 1463469803 [4 - tcp4:127.0.0.1:61403] Open
+2016-05-17 14:25:24,644 INFO     Session 1463469803 [4 - tcp4:127.0.0.1:61403] Received sensitive information.
+2016-05-17 14:25:25,068 INFO     Session 1463469803 [4 - tcp4:127.0.0.1:61403] Login as faisal
+2016-05-17 14:30:24,044 INFO     Session 1463469803 [5 - tcp4:127.0.0.1:61476] Connection
+2016-05-17 14:30:24,045 INFO     Session 1463469803 [5 - tcp4:127.0.0.1:61476] Open
+2016-05-17 14:30:24,064 INFO     Session 1463469803 [5 - tcp4:127.0.0.1:61476] Received sensitive information.
+2016-05-17 14:30:24,068 INFO     Session 1463469803 [5 - tcp4:127.0.0.1:61476] Close - 1000:User is logged in!
+2016-05-17 14:30:36,843 INFO     Session 1463469803 [6 - tcp4:127.0.0.1:61481] Connection
+2016-05-17 14:30:36,844 INFO     Session 1463469803 [6 - tcp4:127.0.0.1:61481] Open
+2016-05-17 14:30:36,862 INFO     Session 1463469803 [6 - tcp4:127.0.0.1:61481] Received sensitive information.
+2016-05-17 14:30:36,864 INFO     Session 1463469803 [6 - tcp4:127.0.0.1:61481] Close - 1000:User is logged in!
+2016-05-17 14:31:29,780 INFO     Session 1463470288 [1 - tcp4:127.0.0.1:61490] Connection
+2016-05-17 14:31:29,781 INFO     Session 1463470288 [1 - tcp4:127.0.0.1:61490] Open
+2016-05-17 14:31:29,783 INFO     Session 1463470288 [1 - tcp4:127.0.0.1:61490] Received sensitive information.
+2016-05-17 14:31:30,219 INFO     Session 1463470288 [1 - tcp4:127.0.0.1:61490] Login as faisal
+2016-05-17 14:31:51,044 INFO     Session 1463470288 [1 - tcp4:127.0.0.1:61490] Close :connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-17 14:39:39,081 INFO     Session 1463470288 [2 - tcp4:127.0.0.1:61559] Connection
+2016-05-17 14:39:39,082 INFO     Session 1463470288 [2 - tcp4:127.0.0.1:61559] Open
+2016-05-17 14:39:39,101 INFO     Session 1463470288 [2 - tcp4:127.0.0.1:61559] Received sensitive information.
+2016-05-17 14:39:39,534 INFO     Session 1463470288 [2 - tcp4:127.0.0.1:61559] Login as faisal
+2016-05-17 14:40:01,152 INFO     Session 1463470288 [2 - tcp4:127.0.0.1:61559] Close :connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-17 14:42:48,877 INFO     Session 1463470288 [3 - tcp4:127.0.0.1:61586] Connection
+2016-05-17 14:42:48,878 INFO     Session 1463470288 [3 - tcp4:127.0.0.1:61586] Open
+2016-05-17 14:42:48,897 INFO     Session 1463470288 [3 - tcp4:127.0.0.1:61586] Received sensitive information.
+2016-05-17 14:42:48,897 INFO     Session 1463470288 [3 - tcp4:127.0.0.1:61586] Login failed.
+2016-05-17 14:42:48,903 INFO     Session 1463470288 [3 - tcp4:127.0.0.1:61586] Close :Incorrect login data!
+2016-05-17 14:42:55,913 INFO     Session 1463470288 [4 - tcp4:127.0.0.1:61591] Connection
+2016-05-17 14:42:55,914 INFO     Session 1463470288 [4 - tcp4:127.0.0.1:61591] Open
+2016-05-17 14:42:55,916 INFO     Session 1463470288 [4 - tcp4:127.0.0.1:61591] Received sensitive information.
+2016-05-17 14:42:56,339 INFO     Session 1463470288 [4 - tcp4:127.0.0.1:61591] Login as faisal
+2016-05-17 14:43:10,421 INFO     Session 1463470288 [4 - tcp4:127.0.0.1:61591] Close :connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-17 14:44:06,355 INFO     Session 1463470288 [5 - tcp4:127.0.0.1:61625] Connection
+2016-05-17 14:44:06,356 INFO     Session 1463470288 [5 - tcp4:127.0.0.1:61625] Open
+2016-05-17 14:44:06,375 INFO     Session 1463470288 [5 - tcp4:127.0.0.1:61625] Received sensitive information.
+2016-05-17 14:44:06,798 INFO     Session 1463470288 [5 - tcp4:127.0.0.1:61625] Login as faisal
+2016-05-17 14:44:21,083 INFO     Session 1463470288 [5 - tcp4:127.0.0.1:61625] Close :Shutdown
+2016-05-17 14:45:34,520 INFO     Session 1463470288 [6 - tcp4:127.0.0.1:61632] Connection
+2016-05-17 14:45:34,521 INFO     Session 1463470288 [6 - tcp4:127.0.0.1:61632] Open
+2016-05-17 14:45:34,538 INFO     Session 1463470288 [6 - tcp4:127.0.0.1:61632] Received sensitive information.
+2016-05-17 14:45:34,969 INFO     Session 1463470288 [6 - tcp4:127.0.0.1:61632] Login as faisal
+2016-05-17 14:45:40,258 INFO     Session 1463470288 [6 - tcp4:127.0.0.1:61632] Close :Shutdown
+2016-05-17 14:46:33,186 INFO     Session 1463470288 [7 - tcp4:127.0.0.1:61640] Connection
+2016-05-17 14:46:33,187 INFO     Session 1463470288 [7 - tcp4:127.0.0.1:61640] Open
+2016-05-17 14:46:33,205 INFO     Session 1463470288 [7 - tcp4:127.0.0.1:61640] Received sensitive information.
+2016-05-17 14:46:33,632 INFO     Session 1463470288 [7 - tcp4:127.0.0.1:61640] Login as faisal
+2016-05-17 14:46:39,544 INFO     Session 1463470288 [7 - tcp4:127.0.0.1:61640] Close :Shutdown
+2016-05-17 14:46:50,225 INFO     Session 1463470288 [8 - tcp4:127.0.0.1:61646] Connection
+2016-05-17 14:46:50,226 INFO     Session 1463470288 [8 - tcp4:127.0.0.1:61646] Open
+2016-05-17 14:46:50,228 INFO     Session 1463470288 [8 - tcp4:127.0.0.1:61646] Received sensitive information.
+2016-05-17 14:46:50,650 INFO     Session 1463470288 [8 - tcp4:127.0.0.1:61646] Login as faisal
+2016-05-17 14:47:00,825 INFO     Session 1463470288 [8 - tcp4:127.0.0.1:61646] Close :Shutdown
+2016-05-17 15:16:15,941 INFO     Session 1463470288 [9 - tcp4:127.0.0.1:62201] Connection
+2016-05-17 15:16:15,943 INFO     Session 1463470288 [9 - tcp4:127.0.0.1:62201] Open
+2016-05-17 15:16:15,961 INFO     Session 1463470288 [9 - tcp4:127.0.0.1:62201] Received sensitive information.
+2016-05-17 15:16:16,400 INFO     Session 1463470288 [9 - tcp4:127.0.0.1:62201] Login as faisal
+2016-05-17 15:16:18,587 INFO     Session 1463470288 [9 - tcp4:127.0.0.1:62201] Close :Shutdown
+2016-05-17 15:16:25,697 INFO     Session 1463470288 [10 - tcp4:127.0.0.1:62208] Connection
+2016-05-17 15:16:25,698 INFO     Session 1463470288 [10 - tcp4:127.0.0.1:62208] Open
+2016-05-17 15:16:25,701 INFO     Session 1463470288 [10 - tcp4:127.0.0.1:62208] Received sensitive information.
+2016-05-17 15:16:26,134 INFO     Session 1463470288 [10 - tcp4:127.0.0.1:62208] Login as faisal
+2016-05-17 15:16:35,836 INFO     Session 1463470288 [10 - tcp4:127.0.0.1:62208] Close :Shutdown
+2016-05-24 05:23:45,148 INFO     Session 1464041926 [1 - tcp4:127.0.0.1:55286] Connection
+2016-05-24 05:23:45,187 INFO     Session 1464041926 [1 - tcp4:127.0.0.1:55286] Open
+2016-05-24 05:23:45,219 INFO     Session 1464041926 [1 - tcp4:127.0.0.1:55286] Received sensitive information.
+2016-05-24 05:23:45,685 INFO     Session 1464041926 [1 - tcp4:127.0.0.1:55286] Login as faisal
+2016-05-24 05:23:45,685 INFO     Session 1464041926 [1 - tcp4:127.0.0.1:55286] Message - b'{"command":"get_admin"}'
+2016-05-24 05:23:45,685 INFO     Session 1464041926 [1 - tcp4:127.0.0.1:55286] Requesting Admin list.
+2016-05-24 05:23:45,959 INFO     Session 1464041926 [1 - tcp4:127.0.0.1:55286] Close :connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-24 05:25:36,164 INFO     Session 1464042328 [1 - tcp4:127.0.0.1:55350] Connection
+2016-05-24 05:25:36,164 INFO     Session 1464042328 [1 - tcp4:127.0.0.1:55350] Open
+2016-05-24 05:25:36,184 INFO     Session 1464042328 [1 - tcp4:127.0.0.1:55350] Received sensitive information.
+2016-05-24 05:25:36,603 INFO     Session 1464042328 [1 - tcp4:127.0.0.1:55350] Login as faisal
+2016-05-24 05:25:36,604 INFO     Session 1464042328 [1 - tcp4:127.0.0.1:55350] Message - b'{"command":"get_admin"}'
+2016-05-24 05:25:36,728 INFO     Session 1464042328 [1 - tcp4:127.0.0.1:55350] Close :connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-24 05:26:01,283 INFO     Session 1464042353 [1 - tcp4:127.0.0.1:55359] Connection
+2016-05-24 05:26:01,284 INFO     Session 1464042353 [1 - tcp4:127.0.0.1:55359] Open
+2016-05-24 05:26:01,305 INFO     Session 1464042353 [1 - tcp4:127.0.0.1:55359] Received sensitive information.
+2016-05-24 05:26:01,720 INFO     Session 1464042353 [1 - tcp4:127.0.0.1:55359] Login as faisal
+2016-05-24 05:26:01,720 INFO     Session 1464042353 [1 - tcp4:127.0.0.1:55359] Message - b'{"command":"get_admin"}'
+2016-05-24 05:26:01,720 INFO     Session 1464042353 [1 - tcp4:127.0.0.1:55359] Requesting Admin list.
+2016-05-24 05:26:01,729 INFO     Session 1464042353 [1 - tcp4:127.0.0.1:55359] Close :connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-24 05:27:06,579 INFO     Session 1464042419 [1 - tcp4:127.0.0.1:55380] Connection
+2016-05-24 05:27:06,580 INFO     Session 1464042419 [1 - tcp4:127.0.0.1:55380] Open
+2016-05-24 05:27:06,599 INFO     Session 1464042419 [1 - tcp4:127.0.0.1:55380] Received sensitive information.
+2016-05-24 05:27:07,007 INFO     Session 1464042419 [1 - tcp4:127.0.0.1:55380] Login as faisal
+2016-05-24 05:27:07,007 INFO     Session 1464042419 [1 - tcp4:127.0.0.1:55380] Message - b'{"command":"get_admin"}'
+2016-05-24 05:27:07,008 INFO     Session 1464042419 [1 - tcp4:127.0.0.1:55380] Requesting Admin list.
+2016-05-24 05:27:22,611 INFO     Session 1464042419 [1 - tcp4:127.0.0.1:55380] Close :connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2016-05-24 05:28:59,211 INFO     Session 1464042419 [2 - tcp4:127.0.0.1:55390] Connection
+2016-05-24 05:28:59,211 INFO     Session 1464042419 [2 - tcp4:127.0.0.1:55390] Open
+2016-05-24 05:28:59,235 INFO     Session 1464042419 [2 - tcp4:127.0.0.1:55390] Received sensitive information.
+2016-05-24 05:28:59,640 INFO     Session 1464042419 [2 - tcp4:127.0.0.1:55390] Login as faisal
+2016-05-24 05:28:59,640 INFO     Session 1464042419 [2 - tcp4:127.0.0.1:55390] Message - b'{"command":"get_admin"}'
+2016-05-24 05:28:59,640 INFO     Session 1464042419 [2 - tcp4:127.0.0.1:55390] Requesting Admin list.
+2016-05-24 05:28:59,644 INFO     Session 1464042419 [2 - tcp4:127.0.0.1:55390] Message - b'{"pob":"Jakarta","occupation":"Programmer","address":"Tangerang Banten","gender":false,"dob":"1994-09-14 05:28:59","name":"Faisal P","id":1,"married":true,"command":"edit_client","religion":"Islam"}'
+2016-05-24 05:28:59,644 INFO     Session 1464042419 [2 - tcp4:127.0.0.1:55390] Editing client...
+2016-05-24 05:28:59,738 INFO     Session 1464042419 [2 - tcp4:127.0.0.1:55390] Edit successful!
+2016-05-24 05:29:06,554 INFO     Session 1464042419 [2 - tcp4:127.0.0.1:55390] Close :connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)

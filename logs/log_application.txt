@@ -1,0 +1,173 @@
+2016-05-05 00:14:38,800 INFO     Application started! Session:1462382078
+2016-05-05 00:14:47,314 INFO     Command given 'quit'.
+2016-05-05 00:14:47,314 INFO     Application stopped
+2016-05-05 00:15:15,032 INFO     Application started! Session:1462382115
+2016-05-05 00:16:19,197 INFO     Application started! Session:1462382179
+2016-05-05 00:16:25,836 INFO     Command given 'admin add'.
+2016-05-05 00:16:30,959 INFO     Created new admin 'faisal'.
+2016-05-05 00:16:32,681 INFO     Command given 'quit'.
+2016-05-05 00:16:32,682 INFO     Application stopped
+2016-05-05 00:16:34,541 INFO     Application started! Session:1462382194
+2016-05-05 00:16:41,916 INFO     Command given 'quit'.
+2016-05-05 00:16:41,916 INFO     Application stopped
+2016-05-05 17:31:10,031 INFO     Application started! Session:1462444270
+2016-05-05 17:31:14,138 INFO     Command given 'quit'.
+2016-05-05 17:31:14,138 INFO     Application stopped
+2016-05-05 17:32:16,156 INFO     Application started! Session:1462444336
+2016-05-05 17:32:29,938 INFO     Command given 'admin add'.
+2016-05-05 17:32:36,864 INFO     Created new admin 'faisal'.
+2016-05-05 17:32:41,374 INFO     Command given 'admin verify'.
+2016-05-05 17:32:57,545 INFO     Command given 'quit'.
+2016-05-05 17:32:57,545 INFO     Application stopped
+2016-05-05 17:42:03,877 INFO     Application started! Session:1462444923
+2016-05-05 17:43:31,612 INFO     Application started! Session:1462445011
+2016-05-05 17:45:29,293 INFO     Application started! Session:1462445129
+2016-05-05 17:45:51,018 INFO     Application started! Session:1462445151
+2016-05-05 17:48:00,644 INFO     Application started! Session:1462445280
+2016-05-05 17:51:12,103 INFO     Application started! Session:1462445472
+2016-05-05 17:51:41,448 INFO     Application started! Session:1462445501
+2016-05-05 18:09:11,715 INFO     Application started! Session:1462446551
+2016-05-05 18:09:17,946 INFO     Application started! Session:1462446557
+2016-05-05 18:09:21,018 INFO     Command given 'admin add'.
+2016-05-05 18:09:27,653 INFO     Created new admin 'faisal'.
+2016-05-05 18:52:20,850 INFO     Command given 'quit'.
+2016-05-05 18:52:20,850 INFO     Application stopped
+2016-05-05 18:52:25,683 INFO     Application started! Session:1462449145
+2016-05-05 18:53:00,387 INFO     Application started! Session:1462449180
+2016-05-05 18:53:13,500 INFO     Application started! Session:1462449193
+2016-05-05 19:00:53,397 INFO     Application started! Session:1462449653
+2016-05-05 19:01:05,894 INFO     Application started! Session:1462449665
+2016-05-05 19:01:07,897 INFO     Application started! Session:1462449667
+2016-05-05 19:05:20,404 INFO     Application started! Session:1462449920
+2016-05-05 19:05:20,407 ERROR    Application instance exist!
+2016-05-05 19:05:43,117 INFO     Application started! Session:1462449943
+2016-05-05 19:05:43,121 ERROR    Application instance exist!
+2016-05-05 19:11:27,049 INFO     Command given 'quit'.
+2016-05-05 19:11:27,049 INFO     Application stopped
+2016-05-05 20:21:40,029 INFO     Application started! Session:1462454500
+2016-05-05 20:32:20,267 INFO     Application started! Session:1462455140
+2016-05-05 20:33:04,749 INFO     Application started! Session:1462455184
+2016-05-05 20:33:28,813 INFO     Application started! Session:1462455208
+2016-05-05 20:34:00,351 INFO     Application started! Session:1462455240
+2016-05-05 20:34:56,417 INFO     Application started! Session:1462455296
+2016-05-05 20:35:12,056 INFO     Application started! Session:1462455312
+2016-05-05 20:37:11,077 INFO     Application started! Session:1462455431
+2016-05-05 20:39:54,516 INFO     Application started! Session:1462455594
+2016-05-05 20:40:53,917 INFO     Application started! Session:1462455653
+2016-05-05 21:34:10,452 INFO     Application started! Session:1462458850
+2016-05-05 21:49:29,116 INFO     Application started! Session:1462459769
+2016-05-05 21:49:57,302 INFO     Application started! Session:1462459797
+2016-05-05 21:53:28,466 INFO     Application started! Session:1462460008
+2016-05-05 21:55:27,007 INFO     Application started! Session:1462460127
+2016-05-05 21:57:19,366 INFO     Application started! Session:1462460239
+2016-05-05 22:06:42,430 INFO     Application started! Session:1462460802
+2016-05-05 22:11:34,874 INFO     Application started! Session:1462461094
+2016-05-05 22:16:21,429 INFO     Application started! Session:1462461381
+2016-05-05 23:24:36,768 INFO     Application started! Session:1462465476
+2016-05-06 01:29:36,183 INFO     Application started! Session:1462472976
+2016-05-06 01:30:26,412 INFO     Application started! Session:1462473026
+2016-05-06 01:31:17,387 INFO     Application started! Session:1462473077
+2016-05-06 01:33:08,062 INFO     Application started! Session:1462473188
+2016-05-06 01:34:28,661 INFO     Application started! Session:1462473268
+2016-05-06 01:35:08,555 INFO     Application started! Session:1462473308
+2016-05-06 01:36:01,656 INFO     Application started! Session:1462473361
+2016-05-06 16:54:46,296 INFO     Application started! Session:1462528486
+2016-05-06 17:20:21,829 INFO     Application started! Session:1462530021
+2016-05-06 17:47:45,650 INFO     Application started! Session:1462531665
+2016-05-06 17:48:22,448 INFO     Application started! Session:1462531702
+2016-05-06 17:48:47,057 INFO     Application started! Session:1462531727
+2016-05-06 17:50:08,478 INFO     Application started! Session:1462531808
+2016-05-06 17:51:38,348 INFO     Application started! Session:1462531898
+2016-05-06 17:52:28,785 INFO     Application started! Session:1462531948
+2016-05-06 17:53:13,563 INFO     Application started! Session:1462531993
+2016-05-06 17:56:27,855 INFO     Application started! Session:1462532187
+2016-05-06 17:57:13,786 INFO     Application started! Session:1462532233
+2016-05-06 17:58:30,542 INFO     Application started! Session:1462532310
+2016-05-06 18:00:25,381 INFO     Application started! Session:1462532425
+2016-05-06 18:02:45,270 INFO     Application started! Session:1462532565
+2016-05-06 18:03:37,516 INFO     Application started! Session:1462532617
+2016-05-06 18:06:23,077 INFO     Application started! Session:1462532783
+2016-05-06 23:32:37,389 INFO     Application started! Session:1462552357
+2016-05-06 23:32:46,569 INFO     Command given 'add admin'.
+2016-05-06 23:32:46,570 INFO     Invalid command 'add admin'.
+2016-05-06 23:32:48,249 INFO     Command given ''.
+2016-05-06 23:32:48,249 INFO     Invalid command ''.
+2016-05-06 23:32:52,877 INFO     Command given 'admin add'.
+2016-05-06 23:33:34,306 INFO     Application started! Session:1462552414
+2016-05-06 23:33:37,323 INFO     Command given 'admin add'.
+2016-05-06 23:33:46,052 INFO     Created new admin 'faisal'.
+2016-05-06 23:38:00,282 INFO     Application started! Session:1462552680
+2016-05-06 23:38:45,137 INFO     Application started! Session:1462552725
+2016-05-06 23:39:33,406 INFO     Application started! Session:1462552773
+2016-05-06 23:40:10,146 INFO     Application started! Session:1462552810
+2016-05-06 23:42:17,697 INFO     Application started! Session:1462552937
+2016-05-06 23:43:14,782 INFO     Application started! Session:1462552994
+2016-05-06 23:43:19,828 INFO     Command given 'admin add'.
+2016-05-06 23:43:27,965 INFO     Created new admin 'faisal2'.
+2016-05-06 23:44:05,355 INFO     Command given 'quit'.
+2016-05-06 23:44:05,355 INFO     Application stopped
+2016-05-06 23:44:58,269 INFO     Application started! Session:1462553098
+2016-05-07 00:02:18,367 INFO     Application started! Session:1462554138
+2016-05-07 00:03:35,558 INFO     Application started! Session:1462554215
+2016-05-07 00:04:38,551 INFO     Application started! Session:1462554278
+2016-05-07 00:07:44,215 INFO     Command given 'admin list'.
+2016-05-07 00:08:48,807 INFO     Application started! Session:1462554528
+2016-05-07 00:09:00,313 INFO     Command given 'admin list'.
+2016-05-07 00:09:41,970 INFO     Command given 'admin list'.
+2016-05-07 00:12:24,962 INFO     Application started! Session:1462554744
+2016-05-07 00:12:37,329 INFO     Command given 'admin list'.
+2016-05-07 00:13:00,769 INFO     Application started! Session:1462554780
+2016-05-07 00:13:10,617 INFO     Command given 'admin list'.
+2016-05-07 00:13:14,997 INFO     Command given 'admin list'.
+2016-05-07 00:13:40,038 INFO     Application started! Session:1462554820
+2016-05-07 00:13:54,793 INFO     Command given 'admin list'.
+2016-05-07 00:16:39,032 INFO     Application started! Session:1462554999
+2016-05-07 00:16:49,376 INFO     Command given 'admin list'.
+2016-05-07 00:17:06,942 INFO     Application started! Session:1462555026
+2016-05-07 00:17:17,101 INFO     Command given 'admin list'.
+2016-05-07 00:21:42,876 INFO     Application started! Session:1462555302
+2016-05-07 00:22:50,115 INFO     Application started! Session:1462555370
+2016-05-07 01:09:42,935 INFO     Application started! Session:1462558182
+2016-05-07 01:10:32,445 INFO     Application started! Session:1462558232
+2016-05-07 01:17:16,045 INFO     Application started! Session:1462558636
+2016-05-07 01:18:35,206 INFO     Application started! Session:1462558715
+2016-05-07 01:19:16,611 INFO     Application started! Session:1462558756
+2016-05-07 01:20:26,305 INFO     Application started! Session:1462558826
+2016-05-07 01:21:50,976 INFO     Application started! Session:1462558910
+2016-05-07 02:18:01,236 INFO     Application started! Session:1462562281
+2016-05-07 02:20:00,137 INFO     Application started! Session:1462562400
+2016-05-07 02:56:19,384 INFO     Application started! Session:1462564579
+2016-05-07 03:01:45,140 INFO     Application started! Session:1462564905
+2016-05-07 03:14:12,372 INFO     Application started! Session:1462565652
+2016-05-07 03:16:56,280 INFO     Application started! Session:1462565816
+2016-05-07 03:21:15,546 INFO     Application started! Session:1462566075
+2016-05-07 03:23:53,393 INFO     Application started! Session:1462566233
+2016-05-07 03:25:03,832 INFO     Application started! Session:1462566303
+2016-05-07 03:27:03,672 INFO     Application started! Session:1462566423
+2016-05-07 03:28:35,342 INFO     Application started! Session:1462566515
+2016-05-07 03:30:18,303 INFO     Application started! Session:1462566618
+2016-05-07 03:30:40,972 INFO     Application started! Session:1462566640
+2016-05-07 03:32:07,184 INFO     Application started! Session:1462566727
+2016-05-07 03:33:55,746 INFO     Application started! Session:1462566835
+2016-05-07 03:34:33,895 INFO     Application started! Session:1462566873
+2016-05-07 03:37:19,742 INFO     Application started! Session:1462567039
+2016-05-07 03:39:08,315 INFO     Application started! Session:1462567148
+2016-05-07 03:50:23,488 INFO     Command given 'quit'.
+2016-05-07 03:50:23,489 INFO     Application stopped
+2016-05-16 21:08:29,747 INFO     Application started! Session:1463407709
+2016-05-16 21:08:40,183 INFO     Command given 'admin list'.
+2016-05-16 21:08:51,801 INFO     Command given 'quit'.
+2016-05-16 21:08:51,802 INFO     Application stopped
+2016-05-16 21:11:53,815 INFO     Application started! Session:1463407913
+2016-05-16 21:11:56,618 INFO     Command given 'admin'.
+2016-05-16 21:11:56,618 INFO     Invalid command 'admin'.
+2016-05-16 21:12:01,095 INFO     Command given 'admin list'.
+2016-05-16 21:12:06,801 INFO     Command given 'admin verify'.
+2016-05-16 21:12:17,826 INFO     Application started! Session:1463407937
+2016-05-16 23:22:33,448 INFO     Application started! Session:1463415753
+2016-05-17 14:23:23,527 INFO     Application started! Session:1463469803
+2016-05-17 14:31:28,503 INFO     Application started! Session:1463470288
+2016-05-24 05:18:46,325 INFO     Application started! Session:1464041926
+2016-05-24 05:25:28,580 INFO     Application started! Session:1464042328
+2016-05-24 05:25:53,301 INFO     Application started! Session:1464042353
+2016-05-24 05:26:59,022 INFO     Application started! Session:1464042419
